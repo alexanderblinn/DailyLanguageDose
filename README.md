@@ -25,7 +25,8 @@ README.md for the `DailyLanguageDose` repository.
   <h3 align="center">Daily Language Dose</h3>
 
   <p align="center">
-    Daily Language Dose is a tool designed to help you learn and practice new languages daily by sending you daily E-Mails with Vocabulary.
+    Daily Language Dose is a tool designed to help you learn
+    and practice a new language daily by sending you mails with vocabulary.
     <br />
     <a href="https://github.com/alexanderblinn/DailyLanguageDose/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -66,7 +67,7 @@ README.md for the `DailyLanguageDose` repository.
 Daily Language Dose is an tool designed to facilitate daily language learning and practice. The module extracts vocabulary, pronunciation, translations, and example sentences from a text file, which can be easily updated. This curated content is then delivered via email. The system can be seamlessly automated using cron jobs on Ubuntu servers, Task Scheduler on Windows, or launchd on macOS to ensure timely delivery of daily or more frequent emails. The email template features a retro design.
 
 <p align="center">
-  <img src="img/email.jpeg" alt="Email Template" width="200">
+  <img src="img/email.jpg" alt="Email Template" width="200">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,15 +103,6 @@ To get started, create `params.py` in `/app/conf/` and add your credentials and 
   # Absolute path to the text file containing translations
   PATH = "/home/user/DailyLanguageDose/app/conf/translations.txt"
   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
