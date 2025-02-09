@@ -22,10 +22,10 @@ README.md for the `DailyLanguageDose` repository.
     <img src="app/img/logo.jpeg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">energy-charts.info</h3>
+  <h3 align="center">Daily Language Dose</h3>
 
   <p align="center">
-    Access the API of the energy-charts.info website.
+    Daily Language Dose is a tool designed to help you learn and practice new languages daily by sending you daily E-Mails with Vocabulary.
     <br />
     <a href="https://github.com/alexanderblinn/DailyLanguageDose/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,7 +63,11 @@ README.md for the `DailyLanguageDose` repository.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-...
+Daily Language Dose is an tool designed to facilitate daily language learning and practice. The module extracts vocabulary, pronunciation, translations, and example sentences from a text file, which can be easily updated. This curated content is then delivered via email. The system can be seamlessly automated using cron jobs on Ubuntu servers, Task Scheduler on Windows, or launchd on macOS to ensure timely delivery of daily or more frequent emails. The email template features a retro design.
+
+<p align="center">
+  <img src="img/email.jpeg" alt="Email Template" width="200">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +77,31 @@ README.md for the `DailyLanguageDose` repository.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-...
+To get started, create `params.py` in `/app/conf/` and add your credentials and email settings, e.g.,
+  ```python
+  # params.py
+
+  # SMTP server settings
+  SMTP_SERVER = "mail.gmx.net"
+  SMTP_PORT = 465
+  USERNAME = "your username"
+  PASSWORD = "your password"
+
+  # Sender email address
+  FROM_ADDR = "your_email@example.com"
+
+  # List of recipient email addresses
+  TO_ADDRS = [
+    "email@example.com",
+    "another_email@example.com"
+  ]
+
+  # Email subject
+  SUBJECT = "Your Daily Language Dose"
+
+  # Absolute path to the text file containing translations
+  PATH = "/home/user/DailyLanguageDose/app/conf/translations.txt"
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
