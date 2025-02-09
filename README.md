@@ -19,7 +19,7 @@ README.md for the `DailyLanguageDose` repository.
 <br />
 <div align="center">
   <a href="https://github.com/alexanderblinn/DailyLanguageDose">
-    <img src="app/img/logo.jpeg" alt="Logo" width="200" height="200">
+    <img src="app/img/logo.jpeg" alt="Logo" width="250">
   </a>
 
   <h3 align="center">Daily Language Dose</h3>
@@ -52,7 +52,6 @@ README.md for the `DailyLanguageDose` repository.
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -67,7 +66,7 @@ README.md for the `DailyLanguageDose` repository.
 Daily Language Dose is an tool designed to facilitate daily language learning and practice. The module extracts vocabulary, pronunciation, translations, and example sentences from a text file, which can be easily updated. This curated content is then delivered via email. The system can be seamlessly automated using cron jobs on Ubuntu servers, Task Scheduler on Windows, or launchd on macOS to ensure timely delivery of daily or more frequent emails. The email template features a retro design.
 
 <p align="center">
-  <img src="app/img/email.jpg" alt="Email Template" width="200">
+  <img src="app/img/email.jpg" alt="Email Template" width="250">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
