@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "DailyLanguageDose"
+version = "1.0.0"
+description = "Module to send E-Mails with Vocabulary and their Translation."
+authors = [
+    "Alexander Blinn",
+    ]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12.2"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+ruff = "^0.8.3"
+
+[tool.pytest.ini_options]
+pythonpath = "app"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

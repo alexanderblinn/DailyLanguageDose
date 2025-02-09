@@ -1,0 +1,667 @@
+ardent;[árdent];leidenschaftlich;She was an ardent supporter of the environmental cause, participating in every campaign and rally.;Sie war eine leidenschaftliche Unterstützerin der Umweltbewegung und nahm an jeder Kampagne und Demonstration teil.
+intoxicated;[intóxikejted];betrunken, berauscht;After drinking several glasses of wine, he felt completely intoxicated.;Nach dem Genuss mehrerer Gläser Wein fühlte er sich völlig berauscht.
+dull;[dal];langweilig, dumpf;The lecture was so dull that several students fell asleep.;Der Vortrag war so langweilig, dass mehrere Studenten einschliefen.
+every bit as;[évri bit es];genauso wie;She was every bit as talented as her older sister.;Sie war genauso talentiert wie ihre ältere Schwester.
+to encourage;[inkáridsch];ermutigen;His teacher's words were meant to encourage him to pursue his dreams.;Die Worte seines Lehrers sollten ihn ermutigen, seine Träume zu verfolgen.
+frankly;[frénkli];frei heraus;Frankly, I think the project is a waste of time and resources.;Frei heraus gesagt, halte ich das Projekt für eine Verschwendung von Zeit und Ressourcen.
+hassle;[hásl];Mühe, Ärger;Moving to a new city can be a real hassle, especially if you don't know anyone.;Der Umzug in eine neue Stadt kann eine echte Mühe sein, besonders wenn man niemanden kennt.
+to siddle;[síd’l];sich schlängeln, sich durchschlängeln;She tried to siddle through the crowd without drawing much attention.;Sie versuchte, sich durch die Menge zu schlängeln, ohne viel Aufmerksamkeit zu erregen.
+insidious;[insídiəs];heimtückisch;The insidious spread of misinformation can have serious consequences.;Die heimtückische Verbreitung von Fehlinformationen kann ernste Folgen haben.
+inexorably;[in-eksórəbli];unaufhaltsam;The situation is moving inexorably toward a crisis.;Die Situation bewegt sich unaufhaltsam auf eine Krise zu.
+garish;[gérisch];knallbunt, protzig;The living room was decorated in a garish combination of neon colors.;Das Wohnzimmer war in einer knallbunten Kombination aus Neonfarben dekoriert.
+anxious;[ängschəs];besorgt, verängstigt;She felt anxious about the upcoming job interview.;Sie war besorgt wegen des bevorstehenden Vorstellungsgesprächs.
+to intrude;[intrúd];eindringen, stören, sich breitmachen;He didn't mean to intrude, but he felt he had to say something.;Er wollte nicht stören, aber er fühlte sich verpflichtet, etwas zu sagen.
+intruding;[intrúding];eindringend, sich aufdrängend;The intruding noise from the construction site was impossible to ignore.;Der eindringende Lärm von der Baustelle war unmöglich zu ignorieren.
+to carve up;[kaav ap];zerstückeln;The property was carved up into several smaller plots for development.;Das Grundstück wurde in mehrere kleinere Parzellen für die Bebauung zerteilt.
+to detach something;[di-tätsch];etwas abbauen, etwas ablösen;She tried to detach herself from the drama unfolding at the office.;Sie versuchte, sich von dem Drama im Büro zu lösen.
+irresistible;[iri-zístəbəl];unwiderstehlich;The aroma of freshly baked bread was irresistible.;Der Duft von frisch gebackenem Brot war unwiderstehlich.
+renouncing;[ri-náunsing];verzichtend, Verzicht;Renouncing worldly possessions, he decided to live a simpler life.;Auf weltlichen Besitz verzichtend, beschloss er, ein einfacheres Leben zu führen.
+to renounce something;[ri-náuns];etwas aufgeben;She decided to renounce her claim to the inheritance.;Sie beschloss, auf ihren Erbanspruch zu verzichten.
+virtually;[vörtschüəli];nahezu;The new software is virtually identical to the old version.;Die neue Software ist nahezu identisch mit der alten Version.
+vastly;[västli];erheblich;His performance has improved vastly over the past few months.;Seine Leistung hat sich in den letzten Monaten erheblich verbessert.
+conscience;[kónschəns];Gewissen;Her conscience wouldn't allow her to lie about what happened.;Ihr Gewissen erlaubte es ihr nicht, über das Geschehene zu lügen.
+conscious;[kónschəs];bewusst;He was conscious of being watched by the crowd.;Er war sich bewusst, dass die Menge ihn beobachtete.
+divorced;[divórst];geschieden;After years of unhappiness, they finally got divorced.;Nach Jahren des Unglücks ließen sie sich schließlich scheiden.
+bribery;[brájberi];Bestechung;The politician was arrested on charges of bribery.;Der Politiker wurde wegen Bestechung verhaftet.
+grandiosly;[grändióusli];grandios;The team was grandiosly welcomed after winning the championship.;Das Team wurde nach dem Gewinn der Meisterschaft grandios empfangen.
+pamphlet;[pämflit];Broschüre;The pamphlet provided detailed information about the new policy.;Die Broschüre lieferte detaillierte Informationen über die neue Richtlinie.
+parlance;[páarləns];Ausdrucksweise;In legal parlance, the term has a very specific meaning.;In der juristischen Ausdrucksweise hat der Begriff eine sehr spezifische Bedeutung.
+tailored;[télərd];zugeschnitten;She received a tailored offer that met all her requirements.;Sie erhielt ein auf ihre Bedürfnisse zugeschnittenes Angebot.
+to tailor;[télər];maßschneidern;The program was tailored to suit the needs of individual students.;Das Programm wurde maßgeschneidert, um den Bedürfnissen der einzelnen Studenten gerecht zu werden.
+merchants;[mörtschənts];Kaufleute;The merchants gathered at the market to sell their goods.;Die Kaufleute versammelten sich auf dem Markt, um ihre Waren zu verkaufen.
+upheavals;[ap-híivəls];Umbrüche;The country has experienced significant social upheavals in recent years.;Das Land hat in den letzten Jahren bedeutende soziale Umbrüche erlebt.
+harvest;[haavəst];ernten;Farmers are preparing to harvest their crops this season.;Die Bauern bereiten sich darauf vor, ihre Ernte in dieser Saison einzubringen.
+domestically and abroad;[dəméstikli ənd əbróod];im In- und Ausland;The company sells its products both domestically and abroad.;Das Unternehmen verkauft seine Produkte sowohl im Inland als auch im Ausland.
+cargo;[kaargo];Frachtladung;The cargo was loaded onto the ship early in the morning.;Die Frachtladung wurde früh am Morgen auf das Schiff geladen.
+to convey;[kən-véj];übertragen, befördern;The message was conveyed clearly to all members of the team.;Die Botschaft wurde allen Teammitgliedern klar übermittelt.
+mania;[méjnia];Wahn, Wahnsinn;His mania for collecting rare stamps was well-known.;Sein Wahn, seltene Briefmarken zu sammeln, war bekannt.
+to pick;[pik];auswählen, pflücken;She decided to pick the red apples from the tree.;Sie beschloss, die roten Äpfel vom Baum zu pflücken.
+to pique;[piik];verletzen, kränken;His comments piqued her pride and she decided to confront him.;Seine Kommentare kränkten ihren Stolz und sie beschloss, ihn zur Rede zu stellen.
+to pique somebody's curiosity;[piik káʊri-ósiti];jemandes Neugier reizen;The mysterious package piqued his curiosity.;Das geheimnisvolle Paket reizte seine Neugier.
+fraud;[frod];Betrug;The company was involved in a major financial fraud.;Das Unternehmen war in einen großen Finanzbetrug verwickelt.
+audacity;[o-da-si-ti];Dreistigkeit, Kühnheit;She had the audacity to challenge the CEO's decision.;Sie hatte die Dreistigkeit, die Entscheidung des CEOs in Frage zu stellen.
+advent;[äd-vent];Ankunft, Erscheinen;The advent of the internet changed how we access information.;Das Aufkommen des Internets veränderte unsere Art, auf Informationen zuzugreifen.
+glut;[glatt];Überfluss;There was a glut of strawberries on the market this year.;In diesem Jahr gab es einen Überfluss an Erdbeeren auf dem Markt.
+marred;[mahrd];beschädigt, getrübt;The celebration was marred by a sudden storm.;Die Feier wurde durch einen plötzlichen Sturm getrübt.
+to agonize;[ä-go-naiz];quälen, sich den Kopf zerbrechen;He agonized over the decision for days before finally making up his mind.;Er quälte sich tagelang mit der Entscheidung, bevor er sich schließlich entschied.
+to institute;[in-sti-tjuut];gründen, einführen;The government decided to institute new regulations on data privacy.;Die Regierung beschloss, neue Vorschriften zum Datenschutz einzuführen.
+vague;[wehg];nichtssagend, geistlos, leer;Her answer was vague and didn't really clarify anything.;Ihre Antwort war vage und klärte nichts wirklich.
+dross;[drohs];Unrat, Schrott;Most of the suggestions were dismissed as dross by the committee.;Die meisten Vorschläge wurden vom Ausschuss als Schrott abgetan.
+hazards;[häz-erds];Risiken;The hikers were warned about the potential hazards of the trail.;Die Wanderer wurden vor den möglichen Gefahren des Weges gewarnt.
+obesity;[o-bee-si-ti];Fettleibigkeit;Obesity is a growing health concern in many developed countries.;Fettleibigkeit ist in vielen Industrieländern ein zunehmendes Gesundheitsproblem.
+susceptibility;[sä-sep-ti-bil-i-ti];Anfälligkeit, Empfänglichkeit;Her susceptibility to colds is due to her weakened immune system.;Ihre Anfälligkeit für Erkältungen ist auf ihr geschwächtes Immunsystem zurückzuführen.
+inflammation;[in-fla-mei-schon];Entzündung, Aufstauung;Chronic inflammation can lead to various health problems.;Chronische Entzündungen können zu verschiedenen Gesundheitsproblemen führen.
+fatigue;[fa-tieg];Ermüdung, Erschöpfung;After the long hike, they were overcome by fatigue.;Nach der langen Wanderung wurden sie von Erschöpfung übermannt.
+altered;[awl-terd];geändert;The document was altered without authorization.;Das Dokument wurde ohne Genehmigung geändert.
+to alter something;[awl-ter];etwas ändern;She decided to alter her plans and stay home instead.;Sie beschloss, ihre Pläne zu ändern und stattdessen zu Hause zu bleiben.
+appetizing;[ä-pi-tai-zing];appetitlich, Appetit anregend;The aroma from the kitchen was incredibly appetizing.;Der Duft aus der Küche war unglaublich appetitanregend.
+digestible;[dai-jes-ti-buhl];bekömmlich, verdaulich;The meal was light and easily digestible.;Das Essen war leicht und gut verdaulich.
+titbit;[tit-bit];Leckerbissen;She offered him a titbit of gossip over lunch.;Sie bot ihm einen Leckerbissen an Klatsch beim Mittagessen.
+palatable;[pal-e-tuh-buhl];schmackhaft;The new dish was surprisingly palatable.;Das neue Gericht war überraschend schmackhaft.
+to satiate;[say-shee-ate];sättigen;A small bowl of soup was enough to satiate her hunger.;Eine kleine Schüssel Suppe reichte aus, um ihren Hunger zu stillen.
+to gobble sth. (down);[gob-uhl sth. down];etw. hinunterschlingen;He was so hungry that he gobbled down his meal in minutes.;Er war so hungrig, dass er seine Mahlzeit in wenigen Minuten hinunterschlang.
+to gorge;[gorj];fressen;They gorged on the delicious buffet.;Sie fraßen sich am köstlichen Buffet satt.
+gorging;[gorj-ing];vollfressend;The wolves were gorging themselves on their prey.;Die Wölfe fraßen sich an ihrer Beute voll.
+cold-turkey;[kohld-tur-kee];schlagartig, abrupt;He decided to quit smoking cold-turkey.;Er beschloss, das Rauchen schlagartig aufzugeben.
+genuine;[jen-yoo-in];echt;She showed genuine concern for her friend's well-being.;Sie zeigte aufrichtige Sorge um das Wohlbefinden ihrer Freundin.
+zit;[zit];Pickel;He had a huge zit on his forehead.;Er hatte einen riesigen Pickel auf der Stirn.
+to sit;[sit];sitzen;She liked to sit by the window and watch the rain.;Sie saß gerne am Fenster und beobachtete den Regen.
+to banish;[ban-ish];verbannen, vertreiben;The king decided to banish the traitor from the kingdom.;Der König beschloss, den Verräter aus dem Königreich zu verbannen.
+to opt out;[opt owt];aussteigen, abmelden;He decided to opt out of the project due to personal reasons.;Er beschloss, aufgrund persönlicher Gründe aus dem Projekt auszusteigen.
+unassuming;[un-as-yoo-ming];bescheiden;She was an unassuming person, always putting others first.;Sie war eine bescheidene Person, die immer andere in den Vordergrund stellte.
+plenty;[plen-tee];reichlich;There was plenty of food left after the party.;Nach der Party war noch reichlich Essen übrig.
+deliberately;[de-lib-er-it-lee];absichtlich;He deliberately ignored her calls.;Er ignorierte absichtlich ihre Anrufe.
+to gaze;[gayz];(an-)starren;He would often gaze out the window, lost in thought.;Er starrte oft aus dem Fenster, in Gedanken versunken.
+gaze;[gayz];fester/starrer Blick;Her gaze was fixed on the horizon, as if searching for something.;Ihr starrer Blick war auf den Horizont gerichtet, als ob sie nach etwas suchte.
+seductively;[si-duk-tiv-lee];verlockend;She smiled seductively, knowing the effect it had on him.;Sie lächelte verlockend, wohl wissend, welche Wirkung es auf ihn hatte.
+to tempt sb.;[temp-t sb];jdn. verlocken;The delicious aroma of the bakery tempted her to go inside.;Der köstliche Duft der Bäckerei verlockte sie, hineinzugehen.
+brimming;[brim-ming];randvoll, übersprudelnd;The cup was brimming with hot coffee, ready to be served.;Die Tasse war randvoll mit heißem Kaffee, bereit serviert zu werden.
+straight on;[streyt on];geradeaus;Go straight on until you reach the traffic lights.;Gehen Sie geradeaus, bis Sie die Ampeln erreichen.
+vapid;[va-pid];geistlos, fad, schal;The conversation was vapid, lacking any real depth or meaning.;Das Gespräch war geistlos, ohne wirkliche Tiefe oder Bedeutung.
+to maintain;[meɪn-teyn];aufrechterhalten, beibehalten;It is important to maintain a balanced diet for good health.;Es ist wichtig, eine ausgewogene Ernährung aufrechtzuerhalten.
+skimming;[skim-ming];abschöpfend, blätternd;He was skimming through the report, looking for key points.;Er blätterte durch den Bericht und suchte nach den wichtigsten Punkten.
+round-up;[raund-up];Zusammenfassung;The news channel aired a round-up of the day's top stories.;Der Nachrichtensender brachte eine Zusammenfassung der wichtigsten Nachrichten des Tages.
+to round up;[raund up];zusammenfassen;She tried to round up all the information into a concise report.;Sie versuchte, alle Informationen in einem prägnanten Bericht zusammenzufassen.
+geared to;[geerd to];abgezielt auf;The training program is geared to meet the needs of young professionals.;Das Trainingsprogramm ist auf die Bedürfnisse junger Berufstätiger abgezielt.
+geared;[geerd];gezahnt, verzahnt;The machine's geared mechanism ensures smooth operation.;Der verzahnte Mechanismus der Maschine sorgt für einen reibungslosen Betrieb.
+nourishment;[nur-ish-ment];Nahrung;Proper nourishment is essential for a child's growth and development.;Eine angemessene Ernährung ist für das Wachstum und die Entwicklung eines Kindes unerlässlich.
+upon;[uh-pon];darauf, auf, an, bei;Upon receiving the news, she immediately called her family.;Nach Erhalt der Nachricht rief sie sofort ihre Familie an.
+topnotch;[top-noch];spitzenmäßig, erstklassig;He is a topnotch chef known for his innovative dishes.;Er ist ein spitzenmäßiger Koch, bekannt für seine innovativen Gerichte.
+occasionally;[uh-kei-zhuh-nuh-lee];gelegentlich, bisweilen;She occasionally visits her grandparents on the weekends.;Sie besucht gelegentlich ihre Großeltern an den Wochenenden.
+vying;[vahy-ing];wetteifernd;Several companies are vying for the lucrative government contract.;Mehrere Unternehmen wetteifern um den lukrativen Regierungsauftrag.
+to preach;[preetch];predigen;The priest would preach about the importance of compassion.;Der Priester predigte über die Bedeutung von Mitgefühl.
+remarkable;[ri-mark-uh-buhl];bemerkenswert;Her recovery after the surgery was nothing short of remarkable.;Ihre Genesung nach der Operation war geradezu bemerkenswert.
+to pique sb's curiosity;[peek sb's kyur-ee-os-i-tee];jds. Neugier reizen, wecken;The mysterious letter piqued his curiosity and he decided to investigate.;Der mysteriöse Brief weckte seine Neugier, und er beschloss, nachzuforschen.
+tenterhooks;[ten-ter-huks];Spannhaken;The audience was left on tenterhooks after the thrilling cliffhanger.;Das Publikum wurde nach dem aufregenden Cliffhanger wie auf glühenden Kohlen zurückgelassen.
+to be on tenterhooks;[tu bi on ten-ter-huks];(wie) auf glühenden Kohlen sitzen;They were on tenterhooks waiting for the final exam results.;Sie saßen auf glühenden Kohlen, während sie auf die Ergebnisse der Abschlussprüfung warteten.
+itchy;[it-schi];juckend, kratzig;After the hike, she noticed a few itchy mosquito bites on her arm.;Nach der Wanderung bemerkte sie ein paar juckende Mückenstiche auf ihrem Arm.
+itchy feet;[it-schi fiit];Wanderlust, Fernweh;She has always had itchy feet, longing to explore new places.;Sie hatte immer Fernweh und sehnte sich danach, neue Orte zu erkunden.
+tempted;[temt-id];verleitet;He was tempted to eat the chocolate cake despite being on a diet.;Er war versucht, den Schokoladenkuchen zu essen, obwohl er auf Diät war.
+glimpse;[glimps];(flüchtiger) Blick;She caught a glimpse of the actor as he rushed past.;Sie erhaschte einen flüchtigen Blick auf den Schauspieler, als er vorbeieilte.
+to stick it out;[tu stik it aut];(eisern) durchhalten;Despite the difficulties, they decided to stick it out until the project was completed.;Trotz der Schwierigkeiten beschlossen sie, eisern durchzuhalten, bis das Projekt abgeschlossen war.
+abstaining;[ab-stei-ning];enthaltsam lebend;He is abstaining from alcohol for the month of January.;Er lebt im Januar enthaltsam und verzichtet auf Alkohol.
+however;[hau-ev-er];jedoch, allerdings;She loves to travel; however, she hates flying.;Sie liebt es zu reisen, hasst jedoch das Fliegen.
+reclaimed;[ri-kleimd];wiedergewonnen;The reclaimed wood was used to create beautiful furniture.;Das wiedergewonnene Holz wurde zur Herstellung schöner Möbel verwendet.
+sb. reclaimed;[sb. ri-kleimd];jd. forderte zurück;The artist reclaimed his painting after the exhibition ended.;Der Künstler forderte sein Gemälde nach Ende der Ausstellung zurück.
+decent;[di-sent];angemessen;He earns a decent salary that allows him to live comfortably.;Er verdient ein angemessenes Gehalt, das ihm ein komfortables Leben ermöglicht.
+broad;[brod];breit;The road was broad enough for two cars to pass.;Die Straße war breit genug für zwei Autos.
+to engage sb.;[tu in-geidj sb];jdn. anheuern, beschäftigen;The company decided to engage a consultant for the project.;Das Unternehmen beschloss, einen Berater für das Projekt zu engagieren.
+to engage with sb./sth.;[tu in-geidj with sb./sth.];sich auf jdn./etw. einlassen;She found it difficult to engage with the new team members.;Sie fand es schwierig, sich auf die neuen Teammitglieder einzulassen.
+though;[dou];jedoch, obwohl, aber;He didn't study much, though he still passed the exam.;Er hat nicht viel gelernt, bestand die Prüfung jedoch trotzdem.
+striving;[strai-ving];strebend, strebsam;She is always striving for excellence in her work.;Sie strebt in ihrer Arbeit immer nach Exzellenz.
+sheer;[schier];pur, völlig, gänzlich;The sheer size of the building was impressive.;Die schiere Größe des Gebäudes war beeindruckend.
+to sheer;[schier];scheren, gieren;The car began to sheer to the left unexpectedly.;Das Auto begann unerwartet nach links zu gieren.
+off the grid;[of the grid];unter dem Radar, unentdeckt;They decided to live off the grid, relying on solar power and home-grown food.;Sie beschlossen, unter dem Radar zu leben und sich auf Solarenergie und selbst angebautes Essen zu verlassen.
+solitary;[sol-i-te-ri];einsam;He enjoyed the solitary walks in the quiet forest.;Er genoss die einsamen Spaziergänge im stillen Wald.
+peer;[piir];Kollege, Gleichaltriger;She was well respected by her peers for her dedication and skill.;Sie wurde von ihren Kollegen für ihre Hingabe und ihr Können sehr geschätzt.
+disseminated;[di-se-mi-ney-tid];verbreitet;The information was widely disseminated through social media.;Die Information wurde über soziale Medien weit verbreitet.
+awareness;[a-wer-nes];Bewusstsein;Raising awareness about environmental issues is crucial.;Das Bewusstsein für Umweltprobleme zu schärfen, ist entscheidend.
+urge;[urj];Verlangen;He felt an urge to call his family after the news.;Er verspürte ein Verlangen, nach den Nachrichten seine Familie anzurufen.
+to urge sb.;[tu urj sb];jdn. drängen;She urged him to apply for the job before the deadline.;Sie drängte ihn, sich vor Ablauf der Frist zu bewerben.
+to urge action;[tu urj äk-schon];dringende Maßnahmen fordern;Environmentalists urge action on climate change.;Umweltschützer fordern dringende Maßnahmen gegen den Klimawandel.
+to subside;[tu sub-seid];nachlassen, abklingen;The pain began to subside after he took the medication.;Die Schmerzen begannen nach Einnahme des Medikaments nachzulassen.
+outright;[aut-reit];vollständig, absolut;She won the competition outright, with no need for a second round.;Sie gewann den Wettbewerb vollständig, ohne dass eine zweite Runde nötig war.
+aversion;[a-ver-schun];Aversion, Abneigung;He has a strong aversion to public speaking.;Er hat eine starke Abneigung gegen das Sprechen vor Publikum.
+aversion to/for;[a-ver-schun to/for];Abneigung gegen;Her aversion to loud noises is well known.;Ihre Abneigung gegen laute Geräusche ist bekannt.
+abandoned;[a-bän-dnd];herrenlos, stillgelegt;The abandoned house was rumored to be haunted.;Das herrenlose Haus sollte angeblich verflucht sein.
+to toss;[tos];schleudern;She decided to toss the old magazines into the recycling bin.;Sie beschloss, die alten Zeitschriften in den Recyclingbehälter zu werfen.
+to and fro;[tu änd froh];auf und ab, hin und her;The boat rocked to and fro with the waves.;Das Boot schaukelte mit den Wellen hin und her.
+flotsam;[flot-sem];Treibgut;The beach was littered with flotsam from the shipwreck.;Der Strand war mit Treibgut vom Schiffswrack übersät.
+to divvy sth. up;[tu di-vi sth. ap];etw. aufteilen;They decided to divvy up the chores among the roommates.;Sie beschlossen, die Hausarbeiten unter den Mitbewohnern aufzuteilen.
+divvy;[di-vi];blöd, Dummkopf, Dividende;He played the divvy during the debate to make a point.;Er spielte den Dummkopf während der Debatte, um einen Punkt zu verdeutlichen.
+reliant;[ri-lai-nt];vertraut;She has become very reliant on her morning coffee.;Sie ist sehr auf ihren morgendlichen Kaffee angewiesen.
+to winnow sth.;[tu wi-noh sth.];etw. ausgliedern, etw. sichten, reduzieren;The committee worked hard to winnow the list of candidates down to three.;Das Komitee arbeitete hart daran, die Liste der Kandidaten auf drei zu reduzieren.
+feature (article);[fi-tscher];Feuilleton;The magazine's feature article this month is about renewable energy.;Der Feuilleton-Artikel des Magazins in diesem Monat handelt von erneuerbaren Energien.
+op-ed (article);[op-ed];Meinungskommentar;She wrote an op-ed about the importance of voting.;Sie schrieb einen Meinungskommentar über die Bedeutung des Wählens.
+editorial (article);[e-di-to-ri-el];Leitartikel;The editorial criticized the government's recent policy changes.;Der Leitartikel kritisierte die jüngsten politischen Änderungen der Regierung.
+to reassure;[tu ri-a-schur];jdn. beruhigen, zusichern;The doctor tried to reassure the patient about the procedure.;Der Arzt versuchte, den Patienten bezüglich des Verfahrens zu beruhigen.
+drawer;[dro-er];Schublade;She kept all her important documents in the top drawer of her desk.;Sie bewahrte alle wichtigen Dokumente in der obersten Schublade ihres Schreibtisches auf.
+doubtless;[daut-less];zweifellos;Doubtless, he is the best candidate for the job.;Zweifellos ist er der beste Kandidat für den Job.
+alluring;[a-lur-ing];verlockend;The idea of a tropical vacation was very alluring.;Die Idee eines tropischen Urlaubs war sehr verlockend.
+to dare sth.;[tu der sth.];etw. wagen;She decided to dare the climb despite her fear of heights.;Sie beschloss, den Aufstieg zu wagen, trotz ihrer Höhenangst.
+to dare;[tu der];riskieren, dürfen;How dare you speak to me like that?;Wie kannst du es wagen, so mit mir zu sprechen?
+straight off;[streit of];sofort;He answered the question straight off without hesitation.;Er beantwortete die Frage sofort ohne zu zögern.
+outright;[aut-reit];vollständig, gänzlich, pur;They rejected the proposal outright.;Sie lehnten den Vorschlag vollständig ab.
+relapse;[ri-laps];Rückfall;She had a relapse after several months of recovery.;Sie hatte nach mehreren Monaten der Genesung einen Rückfall.
+to relapse;[tu ri-laps];rückfällig werden;He feared he might relapse into his old habits.;Er fürchtete, er könnte in seine alten Gewohnheiten zurückfallen.
+to consult;[kuhn-salt];befragen;Before making a decision, it's wise to consult a professional.;Bevor man eine Entscheidung trifft, ist es klug, einen Fachmann zu befragen.
+to consult sb.;[kuhn-salt sb.];jdn. zuziehen, anhören;She was advised to consult a lawyer about her case.;Ihr wurde geraten, einen Anwalt zu ihrem Fall hinzuzuziehen.
+consulting;[kuhn-sal-ting];beratend, Beratung;He runs a successful consulting business.;Er führt ein erfolgreiches Beratungsunternehmen.
+to get riled up;[tu get rield ap];geärgert werden;She tends to get riled up easily over small issues.;Sie neigt dazu, sich über kleine Dinge schnell zu ärgern.
+resolution;[re-so-lu-schon];Vorsatz, Beschluss, Resolution;He made a resolution to exercise more regularly.;Er fasste den Vorsatz, regelmäßig mehr Sport zu treiben.
+equilibrium;[i-kwuh-lib-ri-um];Gleichgewicht, Ausgeglichenheit;Maintaining equilibrium in work and life is essential for well-being.;Das Gleichgewicht zwischen Arbeit und Leben zu halten, ist wesentlich für das Wohlbefinden.
+to back off;[tu bek of];sich zurückziehen, zurücktreten;He decided to back off and let her handle the situation.;Er beschloss, sich zurückzuziehen und sie die Situation regeln zu lassen.
+Back off!;[bek of];Verschwinde!, Lass mich in Ruhe!;Back off! I need some space to think.;Lass mich in Ruhe! Ich brauche etwas Platz zum Nachdenken.
+reinstituted;[ri-in-sti-tu-tid];wiedereingestellt;The policy was reinstituted after a period of suspension.;Die Richtlinie wurde nach einer Suspendierungsphase wiedereingestellt.
+to rehire;[tu ri-hai-er];wiedereinstellen;They decided to rehire the former employee for his expertise.;Sie beschlossen, den ehemaligen Mitarbeiter wegen seiner Expertise wiedereinzustellen.
+convincing argument;[kon-vin-sing ahr-gyu-ment];überzeugendes Argument;She presented a convincing argument that swayed the jury's opinion.;Sie legte ein überzeugendes Argument vor, das die Meinung der Jury beeinflusste.
+however;[hau-ev-er];jedoch, allerdings;He wanted to go for a walk; however, it started raining.;Er wollte spazieren gehen, jedoch begann es zu regnen.
+to pervade sb.;[tu per-veid sb];jdn. überzeugen;Her passion for the project pervaded everyone on the team.;Ihre Leidenschaft für das Projekt überzeugte alle im Team.
+distracted;[dis-träk-tid];verwirrt, abgelenkt;She felt distracted by the constant noise outside.;Sie fühlte sich durch den ständigen Lärm draußen abgelenkt.
+to devour sth.;[tu di-vau-er sth.];etw. verschlingen;He devoured the book in just two days.;Er verschlang das Buch in nur zwei Tagen.
+whom;[hum];wem, wen, welchen;Whom did you invite to the party?;Wen hast du zur Party eingeladen?
+shoddy;[schod-di];schäbig, minderwertig;The repairs were done in a shoddy manner and didn't last.;Die Reparaturen wurden schäbig ausgeführt und hielten nicht lange.
+to survey;[tu ser-vey];befragen, untersuchen;They surveyed the population to understand public opinion.;Sie befragten die Bevölkerung, um die öffentliche Meinung zu verstehen.
+to shear;[schier];scheren, gieren;The farmer sheared the sheep in the spring.;Der Bauer scherte die Schafe im Frühjahr.
+genuine(ly);[dʒen-juh-in(li)];echt, aufrichtig;She seemed genuinely happy with her new job.;Sie schien aufrichtig glücklich mit ihrem neuen Job zu sein.
+worse off;[wörs of];in einer misslicheren Lage;After the accident, they were financially worse off than before.;Nach dem Unfall waren sie finanziell schlechter dran als zuvor.
+to be worse off;[tu bi wörs of];schlimmer dran sein;Many people are worse off due to the recent economic downturn.;Viele Menschen sind aufgrund des jüngsten wirtschaftlichen Abschwungs schlimmer dran.
+to cope;[tu koap];die Lage meistern;She learned to cope with stress through meditation.;Sie lernte, mit Stress durch Meditation umzugehen.
+to cope with sb./sth.;[tu koap with sb./sth.];mit jdm./etw. fertigwerden;He found it hard to cope with the demands of his new job.;Er fand es schwierig, mit den Anforderungen seines neuen Jobs fertigzuwerden.
+middle ground;[midl graund];Mittelweg;They tried to find a middle ground that would satisfy both parties.;Sie versuchten, einen Mittelweg zu finden, der beide Parteien zufriedenstellen würde.
+to track down sb./sth.;[tu träk daun sb./sth.];jdn./etw. nachspüren;The detective was able to track down the suspect.;Der Detektiv konnte den Verdächtigen nachspüren.
+to track down;[tu träk daun];aufspüren;We need to track down the source of this error.;Wir müssen die Quelle dieses Fehlers aufspüren.
+party funding;[paati fanding];Parteienfinanzierung;The debate over party funding has intensified.;Die Debatte über die Parteienfinanzierung hat sich verschärft.
+to acknowledge;[tu ack-nolledsch];anerkennen, honorieren;She was quick to acknowledge her team's efforts.;Sie war schnell dabei, die Bemühungen ihres Teams anzuerkennen.
+superfluous;[su-per-flu-uhs];überflüssig, unnötig;The last paragraph in the report was considered superfluous.;Der letzte Absatz im Bericht wurde als überflüssig angesehen.
+exaggerated;[ex-adsch-er-ated];übertrieben;His claims about his achievements were clearly exaggerated.;Seine Behauptungen über seine Leistungen waren eindeutig übertrieben.
+to exaggerate (sth.);[tu ex-adsch-er-ate (sth.)];(etw.) übertreiben;There is no need to exaggerate the problem.;Es gibt keinen Grund, das Problem zu übertreiben.
+to talk sb. down;[tu talk sb. daun];jdn. zum Schweigen bringen;She tried to talk him down when he became agitated.;Sie versuchte, ihn zu beruhigen, als er aufgeregt wurde.
+What have you been up to lately?;[wot häv ju bin ap tu leyt-li?];Was hast du in letzter Zeit gemacht?;What have you been up to lately? It's been a while since we last spoke.;Was hast du in letzter Zeit gemacht? Es ist eine Weile her, seit wir das letzte Mal gesprochen haben.
+traffic calming measures;[träf-ik kaam-ing mesch-urs];Verkehrsberuhigungsmaßnahmen;The city implemented traffic calming measures to reduce accidents.;Die Stadt führte Verkehrsberuhigungsmaßnahmen ein, um Unfälle zu reduzieren.
+hyper-(regional);[hai-per-(ree-gi-o-nal)];über-(regional);The event received hyper-regional coverage from the media.;Die Veranstaltung erhielt eine überregionale Berichterstattung durch die Medien.
+obviously;[ob-vi-us-li];offensichtlich;He was obviously not interested in the proposal.;Er war offensichtlich nicht an dem Vorschlag interessiert.
+plenty;[plenti];reichlich;There are plenty of opportunities for growth in this company.;In diesem Unternehmen gibt es reichlich Wachstumschancen.
+plenty of ...;[plenti of ...];eine Menge ...;There was plenty of food at the party, enough for everyone.;Es gab eine Menge Essen auf der Party, genug für alle.
+to hinder;[tu hin-der];hindern, behindern;Bad weather can hinder outdoor activities.;Schlechtes Wetter kann Aktivitäten im Freien behindern.
+a plethora of sth.;[a ple-tho-ra of sth.];eine Vielzahl an/von etw.;There is a plethora of choices available at the new restaurant.;Es gibt eine Vielzahl an Auswahlmöglichkeiten im neuen Restaurant.
+it's sheer chance;[its schier tschäns];es ist reiner Zufall;It's sheer chance that we ran into each other here.;Es ist reiner Zufall, dass wir uns hier getroffen haben.
+pile-up;[pail-ap];Stau, Auffahrunfall;There was a massive pile-up on the highway during rush hour.;Es gab einen massiven Auffahrunfall auf der Autobahn während der Hauptverkehrszeit.
+bankruptcy;[bänk-rapt-si];Insolvenz, Bankrott;The company filed for bankruptcy after years of financial trouble.;Das Unternehmen meldete nach Jahren finanzieller Schwierigkeiten Insolvenz an.
+shot up;[shot ap];Kugelstoß(en);He shot up from his seat when he heard the news.;Er sprang von seinem Sitz auf, als er die Nachricht hörte.
+left-field;[left-field];experimentell;His ideas are a bit left-field, but they might just work.;Seine Ideen sind ein wenig experimentell, könnten aber funktionieren.
+court;[kort];Gericht, Hof;The case is being heard in a federal court.;Der Fall wird vor einem Bundesgericht verhandelt.
+ostensible;[os-ten-si-bel];angeblich, scheinbar;His ostensible reason for the visit was to discuss business.;Sein angeblicher Grund für den Besuch war, über Geschäfte zu sprechen.
+crucial;[kru-schal];entscheidend;It is crucial to meet the deadline for the project.;Es ist entscheidend, die Frist für das Projekt einzuhalten.
+attentive;[a-ten-tiv];aufmerksam;The teacher was very attentive to the needs of her students.;Die Lehrerin war sehr aufmerksam gegenüber den Bedürfnissen ihrer Schüler.
+inevitable;[in-ev-it-a-bel];unvermeidlich;With the storm approaching, some damage was inevitable.;Mit dem nahenden Sturm war ein gewisser Schaden unvermeidlich.
+elaborate;[e-la-bo-rät];durchdacht, ausgeklügelt;The plan was elaborate, taking months of preparation.;Der Plan war durchdacht und erforderte monatelange Vorbereitung.
+vanishing;[va-nish-ing];verschwindend;The chances of finding the lost hiker were vanishing.;Die Chancen, den vermissten Wanderer zu finden, schwanden.
+inadequate;[in-ad-e-kwät];unangemessen;The facilities provided were inadequate for the size of the event.;Die bereitgestellten Einrichtungen waren für die Größe der Veranstaltung unangemessen.
+to lighten;[tu lai-ten];aufhellen, erleichtern;She painted the walls a light color to lighten up the room.;Sie strich die Wände in einer hellen Farbe, um den Raum aufzuhellen.
+load;[lohd];Belastung (emotional, physisch);He felt the load of his responsibilities growing heavier each day.;Er spürte, dass die Last seiner Verantwortung jeden Tag schwerer wurde.
+worry;[wu-ree];Sorge, Angst;Her constant worry about the future was affecting her health.;Ihre ständige Sorge um die Zukunft beeinträchtigte ihre Gesundheit.
+burden;[bör-den];Belastung (emotional);Caring for his aging parents became an emotional burden.;Die Pflege seiner alternden Eltern wurde zu einer emotionalen Belastung.
+volunteer;[vol-un-teer];Freiwilliger, Ehrenamtlicher;She worked as a volunteer at the local animal shelter.;Sie arbeitete als Freiwillige im örtlichen Tierheim.
+to coin sth.;[tu koin sth.];etw. prägen (Ausdruck);He was the first to coin the term 'cyberspace' in his novel.;Er prägte als Erster den Begriff 'Cyberspace' in seinem Roman.
+to dismiss;[tu dis-miss];ablehnen;The committee decided to dismiss the proposal as impractical.;Der Ausschuss beschloss, den Vorschlag als unpraktisch abzulehnen.
+snappy;[sna-pi];zackig, elegant;Her snappy comeback left everyone in the room speechless.;Ihre zackige Antwort ließ alle im Raum sprachlos zurück.
+legislator;[ledsch-is-lay-tor];Gesetzgeber;The legislator introduced a new bill to improve healthcare.;Der Gesetzgeber brachte ein neues Gesetz zur Verbesserung des Gesundheitswesens ein.
+physician;[fi-si-shun];Arzt;She consulted a physician to get a second opinion on her condition.;Sie konsultierte einen Arzt, um eine zweite Meinung zu ihrer Erkrankung einzuholen.
+envoy;[en-voi];Gesandter, Bote;The envoy was sent to negotiate peace between the warring countries.;Der Gesandte wurde geschickt, um Frieden zwischen den kriegführenden Ländern zu verhandeln.
+rebuke;[re-byuk];Rüge, Ermahnung;The manager's sharp rebuke left the employee feeling humiliated.;Die scharfe Rüge des Managers ließ den Mitarbeiter gedemütigt zurück.
+authoritarianism;[au-tho-ri-ta-ri-an-ism];Autoritarismus;The rise of authoritarianism in some countries is concerning.;Der Anstieg des Autoritarismus in einigen Ländern ist besorgniserregend.
+content;[kon-tent];zufrieden;She was content with her life and didn't feel the need to change anything.;Sie war mit ihrem Leben zufrieden und sah keinen Grund, etwas zu ändern.
+contentment;[kon-tent-ment];Zufriedenheit;After years of searching, he finally found contentment in his new job.;Nach Jahren der Suche fand er schließlich Zufriedenheit in seinem neuen Job.
+horseshoe;[hors-shoo];Hufeisen;He hung a horseshoe above the door for good luck.;Er hängte ein Hufeisen über die Tür, um Glück zu bringen.
+resembling;[ri-sem-bling];ähnlich;The twins were resembling each other so much, it was hard to tell them apart.;Die Zwillinge ähnelten sich so sehr, dass es schwer war, sie auseinanderzuhalten.
+to wash up;[tu wosh ap];abwaschen (Geschirr);After dinner, it was his turn to wash up the dishes.;Nach dem Abendessen war er an der Reihe, das Geschirr abzuwaschen.
+swivel;[swi-vel];Drehgelenk;The chair has a swivel base that allows it to rotate 360 degrees.;Der Stuhl hat ein Drehgelenk, das eine Drehung um 360 Grad ermöglicht.
+to swivel sth.;[tu swi-vel sth.];etw. drehen, schwenken;She swiveled her chair to face the window.;Sie drehte ihren Stuhl, um zum Fenster zu schauen.
+proponent;[pro-po-nent];Befürworter;He was a strong proponent of renewable energy.;Er war ein starker Befürworter erneuerbarer Energien.
+nutrients;[nju-tri-ents];Nährstoffe;Vegetables are a great source of essential nutrients.;Gemüse ist eine hervorragende Quelle für essentielle Nährstoffe.
+approval;[ap-proo-val];Genehmigung;The project received approval from the board of directors.;Das Projekt erhielt die Genehmigung des Vorstands.
+granted;[grän-ted];bewilligt, gewährt;Her request for a leave of absence was granted by the manager.;Ihr Antrag auf Beurlaubung wurde vom Manager bewilligt.
+to conduct (sth.);[tu kon-dukt (sth.)];(etw.) leiten;He was chosen to conduct the orchestra for the concert.;Er wurde ausgewählt, das Orchester für das Konzert zu leiten.
+sheets;[shiits];Lagen, Blätter;The artist used several sheets of paper to create his collage.;Der Künstler verwendete mehrere Blätter Papier, um seine Collage zu erstellen.
+cutlets;[kut-lets];Koteletts;The chef prepared lamb cutlets for the main course.;Der Koch bereitete Lammkoteletts als Hauptgericht zu.
+lunch;[luntsch];Mittagessen;They met for lunch at a cozy café downtown.;Sie trafen sich zum Mittagessen in einem gemütlichen Café in der Innenstadt.
+to anticipate (sth.);[tu an-ti-si-pate (sth.)];(etw.) ahnen, erwarten;The team didn't anticipate such a strong reaction from the audience.;Das Team hatte eine so starke Reaktion des Publikums nicht erwartet.
+to combat;[tu kom-bat];bekämpfen;New policies have been implemented to combat climate change.;Neue Richtlinien wurden eingeführt, um den Klimawandel zu bekämpfen.
+approach;[a-proach];Herangehensweise;Her approach to problem-solving is both creative and practical.;Ihre Herangehensweise zur Problemlösung ist sowohl kreativ als auch praktisch.
+to be of one mind;[tu bi of wun maind];einer Meinung sein;The committee members were of one mind about the new proposal.;Die Ausschussmitglieder waren sich einig über den neuen Vorschlag.
+to march;[tu march];marschieren;The soldiers were ordered to march to the nearest base.;Die Soldaten wurden angewiesen, zur nächsten Basis zu marschieren.
+to tromp;[tu tromp];marschieren;They tromped through the forest in heavy boots.;Sie marschierten in schweren Stiefeln durch den Wald.
+nothingburger;[na-thing-bur-ger];nichts als heiße Luft;The much-anticipated announcement turned out to be a nothingburger.;Die mit Spannung erwartete Ankündigung entpuppte sich als nichts als heiße Luft.
+to approach sth.;[tu a-proach sth.];etw. behandeln (Thema);She decided to approach the topic from a different angle.;Sie beschloss, das Thema aus einem anderen Blickwinkel zu behandeln.
+lawsuit;[law-sut];Prozess, Gerichtsverfahren;The company is facing a lawsuit over alleged safety violations.;Das Unternehmen sieht sich einem Prozess wegen angeblicher Sicherheitsverstöße gegenüber.
+breach;[briitsch];Bruch, Fraktur;There was a breach in the contract that caused a dispute.;Es gab einen Bruch im Vertrag, der zu einem Streit führte.
+to breach sth.;[tu briitsch sth.];etw. (durch)brechen;He was accused of breaching the terms of the agreement.;Er wurde beschuldigt, die Bedingungen der Vereinbarung gebrochen zu haben.
+susceptible;[su-sep-ti-buhl];empfänglich, empfindlich;Children are more susceptible to certain illnesses than adults.;Kinder sind empfänglicher für bestimmte Krankheiten als Erwachsene.
+flu;[flu];Grippe;She stayed home from work because she caught the flu.;Sie blieb wegen einer Grippe zu Hause.
+revised;[ri-vai-zd];überarbeitet, verbessert;The revised edition of the book includes updated information.;Die überarbeitete Ausgabe des Buches enthält aktualisierte Informationen.
+safeguard;[seyf-gard];Schutzmaßnahme;The company implemented several safeguards to protect user data.;Das Unternehmen führte mehrere Schutzmaßnahmen ein, um die Benutzerdaten zu schützen.
+to sue sb.;[tu syu sb.];jdn. verklagen;They decided to sue the company for negligence.;Sie beschlossen, das Unternehmen wegen Fahrlässigkeit zu verklagen.
+counseling;[koun-sel-ing];Beratung;She sought counseling to help her deal with her anxiety.;Sie suchte Beratung, um mit ihrer Angst umzugehen.
+anxiety;[ang-zai-e-ti];Angst, Sorge;His anxiety about the future was becoming overwhelming.;Seine Angst vor der Zukunft wurde überwältigend.
+filing;[fai-ling];Archivierung, Ablage;The office assistant was responsible for filing all the documents.;Der Büroassistent war für die Archivierung aller Dokumente verantwortlich.
+youth;[yuth];Jugend, Jugendlicher;The program aims to support the local youth through various initiatives.;Das Programm zielt darauf ab, die örtliche Jugend durch verschiedene Initiativen zu unterstützen.
+mayor;[mei-or];Bürgermeister;The mayor announced a new initiative to improve public transportation.;Der Bürgermeister kündigte eine neue Initiative zur Verbesserung des öffentlichen Nahverkehrs an.
+harmful;[harm-ful];schädlich;Smoking is harmful to your health.;Rauchen ist schädlich für die Gesundheit.
+to exploit;[tu eks-ploit];ausnutzen, ausbeuten;The company was criticized for exploiting its workers.;Das Unternehmen wurde dafür kritisiert, seine Arbeiter auszubeuten.
+exploitation;[eks-ploi-tey-schon];Ausbeutung, Ausnutzung;Exploitation of natural resources can lead to environmental damage.;Die Ausbeutung natürlicher Ressourcen kann zu Umweltschäden führen.
+filed;[faild];eingereicht;The lawyer filed a motion to dismiss the case.;Der Anwalt reichte einen Antrag auf Abweisung des Falls ein.
+spokesperson;[spohks-per-sen];Wortführer;The company's spokesperson addressed the media regarding the recent scandal.;Der Wortführer des Unternehmens wandte sich an die Medien bezüglich des jüngsten Skandals.
+subsidiary;[sub-sid-ee-er-ee];Tochtergesellschaft, Filiale;The multinational corporation has several subsidiaries around the world.;Der multinationale Konzern hat mehrere Tochtergesellschaften auf der ganzen Welt.
+parent company;[per-ent kuhm-pa-ni];Dachgesellschaft, Mutterkonzern;The subsidiary operates under the guidelines set by the parent company.;Die Tochtergesellschaft arbeitet nach den Richtlinien der Muttergesellschaft.
+parenting experts;[peh-rent-ing eks-perts];Erziehungsexperten;Parenting experts suggest setting clear boundaries for children.;Erziehungsexperten empfehlen, klare Grenzen für Kinder zu setzen.
+(teens') well-being;[(tiinz) wel-bi-ing];(Teenagers) Wohlbefinden;The program focuses on improving teens' well-being through mental health support.;Das Programm konzentriert sich auf die Verbesserung des Wohlbefindens von Teenagern durch Unterstützung der psychischen Gesundheit.
+virtually;[ver-tju-ali];fast, nahezu;The new software is virtually error-free.;Die neue Software ist fast fehlerfrei.
+virtual;[ver-tju-al];virtuell;The company hosted a virtual conference to connect with its global audience.;Das Unternehmen veranstaltete eine virtuelle Konferenz, um sich mit seinem globalen Publikum zu vernetzen.
+tense;[tens];Zeitform, Zeit;In English, verbs change form depending on the tense.;Im Englischen ändern Verben ihre Form je nach Zeit.
+obstacle;[ob-ste-kel];Hürde;The biggest obstacle to her success was her lack of confidence.;Die größte Hürde für ihren Erfolg war ihr mangelndes Selbstvertrauen.
+role model;[rohl mod-el];Vorbild;He has always been a positive role model for younger athletes.;Er war immer ein positives Vorbild für jüngere Sportler.
+population;[pop-yu-ley-schon];Bevölkerung;The population of the city has grown rapidly over the last decade.;Die Bevölkerung der Stadt ist in den letzten zehn Jahren schnell gewachsen.
+tense;[tens];gespannt, nervös;She felt tense before her big presentation.;Sie fühlte sich vor ihrer großen Präsentation nervös.
+to tense sth.;[tu tens sth.];etw. spannen;He tensed his muscles before lifting the heavy weights.;Er spannte seine Muskeln an, bevor er die schweren Gewichte hob.
+to file sth.;[tu fail sth.];etw. ablegen, einordnen;She filed the reports alphabetically in the cabinet.;Sie legte die Berichte alphabetisch im Schrank ab.
+negligible;[neg-li-ji-bel];vernachlässigbar;The risk of side effects from the medication is negligible.;Das Risiko von Nebenwirkungen durch das Medikament ist vernachlässigbar.
+admired;[ad-mai-erd];beliebt, bewundert;She was admired for her dedication to charitable causes.;Sie wurde für ihr Engagement für wohltätige Zwecke bewundert.
+prestigious;[pres-ti-djəs];angesehen, renommiert;He graduated from a prestigious university.;Er absolvierte eine angesehene Universität.
+to undergo;[tu un-der-goh];durchleben;She had to undergo several tests before the doctors could make a diagnosis.;Sie musste mehrere Tests durchlaufen, bevor die Ärzte eine Diagnose stellen konnten.
+manner;[män-ner];Verhaltensweise, Benehmen;His polite manner made him well-liked by his colleagues.;Sein höfliches Benehmen machte ihn bei seinen Kollegen beliebt.
+marijuana;[ma-ri-hua-na];Marihuana;The debate over the legalization of marijuana continues in many countries.;Die Debatte über die Legalisierung von Marihuana geht in vielen Ländern weiter.
+truce;[trus];Friede, Waffenruhe;The two sides agreed to a temporary truce to allow for negotiations.;Die beiden Seiten stimmten einem vorübergehenden Waffenstillstand zu, um Verhandlungen zu ermöglichen.
+laureate;[lawr-ee-it];Preisträger;She was named the Nobel laureate for her groundbreaking research.;Sie wurde zur Nobelpreisträgerin für ihre bahnbrechende Forschung ernannt.
+critical of;[krit-i-kal of];kritisch gegenüber;He was openly critical of the government's new policies.;Er äußerte sich offen kritisch gegenüber den neuen politischen Maßnahmen der Regierung.
+to turn down;[tu tern daun];ablehnen, abweisen;She decided to turn down the job offer due to the low salary.;Sie beschloss, das Jobangebot wegen des niedrigen Gehalts abzulehnen.
+debris;[de-bree];Trümmer, Schutt;The street was covered in debris after the storm.;Die Straße war nach dem Sturm mit Trümmern bedeckt.
+steadfast;[sted-fast];standhaft, unerschütterlich;She remained steadfast in her beliefs despite the criticism.;Sie blieb trotz der Kritik standhaft in ihren Überzeugungen.
+stubborn;[stub-born];hartnäckig, eigensinnig;He was too stubborn to admit that he was wrong.;Er war zu eigensinnig, um zuzugeben, dass er im Unrecht war.
+resolve;[re-zolv];Entschlossenheit;His resolve to succeed was evident in his hard work.;Seine Entschlossenheit, erfolgreich zu sein, zeigte sich in seiner harten Arbeit.
+memorial;[me-mor-i-al];Denkmal;A memorial was erected in honor of the fallen soldiers.;Ein Denkmal wurde zu Ehren der gefallenen Soldaten errichtet.
+next of kin;[nekst of kin];nächste Angehörige(r);The hospital contacted her next of kin after the accident.;Das Krankenhaus kontaktierte ihre nächsten Angehörigen nach dem Unfall.
+admiration;[ad-mi-rey-schon];Bewunderung;He had a deep admiration for his mentor's dedication.;Er hatte eine tiefe Bewunderung für die Hingabe seines Mentors.
+new leads;[nyu liidz];neue Hinweise;The detective followed up on new leads in the investigation.;Der Detektiv verfolgte neue Hinweise in der Untersuchung.
+to light sth.;[tu lait sth.];etw. anzünden, entfachen;He used a match to light the candles.;Er benutzte ein Streichholz, um die Kerzen anzuzünden.
+to cease sth.;[tu siiz sth.];etw. einstellen, beenden;The factory decided to cease production of the outdated model.;Die Fabrik beschloss, die Produktion des veralteten Modells einzustellen.
+to depict sth.;[tu di-pikt sth.];etw. darstellen, beschreiben;The painting depicts a serene landscape with mountains in the background.;Das Gemälde stellt eine friedliche Landschaft mit Bergen im Hintergrund dar.
+bout;[baut];Anfall, Kampf;He suffered a severe bout of flu last winter.;Er litt letzten Winter an einem schweren Grippeanfall.
+pottery;[pot-er-ee];Keramik, Töpferei;She learned the art of pottery from a master craftsman.;Sie lernte die Kunst der Töpferei von einem Meisterhandwerker.
+to excavate;[tu eks-ka-veyt];ausgraben;The team plans to excavate the ancient ruins to uncover artifacts.;Das Team plant, die antiken Ruinen auszugraben, um Artefakte freizulegen.
+archaeological;[ar-kee-o-lo-dschi-kal];archäologisch;The archaeological findings provide insight into ancient civilizations.;Die archäologischen Funde geben Einblicke in antike Zivilisationen.
+figurine;[fig-yu-reen];Figur, Figürchen;She collects antique figurines from different cultures.;Sie sammelt antike Figürchen aus verschiedenen Kulturen.
+emperor;[em-per-or];Kaiser, Herrscher;The emperor ruled over a vast and diverse empire.;Der Kaiser herrschte über ein weites und vielfältiges Reich.
+empire;[em-pai-er];Reich, Imperium;The Roman Empire was one of the most powerful in history.;Das Römische Reich war eines der mächtigsten in der Geschichte.
+court;[kort];Gericht, Hof;The royal court was known for its opulent ceremonies.;Der königliche Hof war bekannt für seine opulenten Zeremonien.
+spectator;[spek-tay-tor];Zuschauer;Thousands of spectators gathered to watch the parade.;Tausende von Zuschauern versammelten sich, um die Parade zu sehen.
+heritage;[he-ri-tij];Erbe, Erbschaft;The castle is part of the country's national heritage.;Das Schloss ist Teil des nationalen Erbes des Landes.
+literary;[li-te-ra-ri];literarisch;She has a deep appreciation for literary classics.;Sie hat eine tiefe Wertschätzung für literarische Klassiker.
+grossly;[gros-li];grob, derb;The report was grossly inaccurate and required immediate revision.;Der Bericht war grob fehlerhaft und musste sofort überarbeitet werden.
+tangible;[tan-dschi-bel];greifbar;The benefits of the new policy are tangible, with clear improvements in productivity.;Die Vorteile der neuen Richtlinie sind greifbar, mit deutlichen Verbesserungen in der Produktivität.
+conscription;[kon-skrip-schon];Wehrpflicht;Conscription was introduced during the war to bolster the army.;Die Wehrpflicht wurde während des Krieges eingeführt, um die Armee zu verstärken.
+treaty;[tree-ti];Abkommen, Vertrag;The two countries signed a peace treaty after years of conflict.;Die beiden Länder unterzeichneten nach Jahren des Konflikts ein Friedensabkommen.
+supplementary;[sup-le-men-ta-ri];zusätzlich;They provided supplementary materials to help students understand the topic.;Sie stellten zusätzliches Material bereit, um den Schülern das Thema näherzubringen.
+attending;[at-ten-ding];begleitend, anwesend;The attending nurse checked the patient's vitals every hour.;Die anwesende Krankenschwester überprüfte jede Stunde die Vitalfunktionen des Patienten.
+staggering;[steg-er-ing];atemberaubend, erstaunlich;The cost of the project was staggering, far exceeding initial estimates.;Die Kosten des Projekts waren atemberaubend und überstiegen die ursprünglichen Schätzungen bei weitem.
+to attend;[tu at-tend];beachten, anwesend sein;She needs to attend the meeting tomorrow to discuss the new policy.;Sie muss morgen an der Sitzung teilnehmen, um die neue Richtlinie zu besprechen.
+to attend sb.;[tu at-tend sb.];jdn. behandeln, bedienen;The doctor will attend the patient shortly.;Der Arzt wird den Patienten in Kürze behandeln.
+legislation;[leg-is-läy-schon];Gesetzgebung;New legislation was introduced to address climate change.;Neue Gesetze wurden eingeführt, um den Klimawandel anzugehen.
+to withstand;[tu with-ständ];standhalten;The bridge was designed to withstand severe weather conditions.;Die Brücke wurde so konzipiert, dass sie extremen Wetterbedingungen standhält.
+to infringe;[tu in-frindsch];verletzen, brechen (Gesetz);The company was fined for infringing copyright laws.;Das Unternehmen wurde wegen Verletzung des Urheberrechtsgesetzes mit einer Geldstrafe belegt.
+to sue sb.;[tu syu sb.];jdn. verklagen;The tenants decided to sue the landlord for not maintaining the property.;Die Mieter beschlossen, den Vermieter zu verklagen, weil er das Grundstück nicht instand hielt.
+bill;[bil];Rechnung, Gesetz;The government introduced a new bill to improve healthcare access.;Die Regierung legte ein neues Gesetz zur Verbesserung des Zugangs zur Gesundheitsversorgung vor.
+excessive;[ex-ses-iv];exzessiv, übermäßig;The use of excessive force by the police was condemned by the community.;Der Einsatz übermäßiger Gewalt durch die Polizei wurde von der Gemeinschaft verurteilt.
+to employ sb.;[tu em-ploy sb.];jdn. anstellen, beschäftigen;The company plans to employ more staff to handle the increased workload.;Das Unternehmen plant, mehr Personal einzustellen, um das erhöhte Arbeitsaufkommen zu bewältigen.
+embankment;[em-bänk-ment];Damm, Deich;The river overflowed its embankment after the heavy rains.;Der Fluss trat nach den starken Regenfällen über die Ufer.
+posture;[pos-tschure];Körperhaltung;Good posture is important for preventing back pain.;Eine gute Körperhaltung ist wichtig, um Rückenschmerzen zu vermeiden.
+attitude;[at-i-tjuhd];Einstellung;His positive attitude helped him overcome many challenges.;Seine positive Einstellung half ihm, viele Herausforderungen zu überwinden.
+alert;[a-lört];Alarm, wachsam;The soldiers were on high alert throughout the night.;Die Soldaten waren die ganze Nacht über in höchster Alarmbereitschaft.
+reinforcement;[ree-in-for-ment];Verstärkung;Reinforcements were sent to support the troops at the front line.;Verstärkungen wurden geschickt, um die Truppen an der Front zu unterstützen.
+to seek;[tu seek];suchen;He decided to seek advice from a professional consultant.;Er beschloss, Rat bei einem professionellen Berater zu suchen.
+sought;[sot];gesucht;She sought a solution to the ongoing conflict.;Sie suchte eine Lösung für den andauernden Konflikt.
+dog handler;[dog händ-ler];Hundeführer;The dog handler trained his canine partner for search and rescue missions.;Der Hundeführer trainierte seinen Hundepartner für Such- und Rettungseinsätze.
+to attend;[tu at-tend];beachten, anwesend sein;It is important to attend the annual meeting for the latest updates.;Es ist wichtig, an der Jahresversammlung teilzunehmen, um die neuesten Informationen zu erhalten.
+to bolster sb./sth.;[tu bol-ster sb./sth.];jdn./etw. unterstützen;The government announced new measures to bolster the economy.;Die Regierung kündigte neue Maßnahmen zur Stärkung der Wirtschaft an.
+to upskill;[tu up-skil];sich fortbilden;The company offers training programs to help employees upskill.;Das Unternehmen bietet Schulungsprogramme an, um den Mitarbeitern bei der Fortbildung zu helfen.
+to be complacent;[tu bi kom-pley-sent];selbstgefällig sein;We cannot afford to be complacent in the face of such challenges.;Wir können es uns nicht leisten, angesichts solcher Herausforderungen selbstgefällig zu sein.
+sector;[sek-tor];Sektor;The tech sector has seen significant growth in recent years.;Der Technologiesektor hat in den letzten Jahren ein erhebliches Wachstum verzeichnet.
+pursuit;[per-suit];Beschäftigung, Streben;Her pursuit of excellence has always been a driving force in her career.;Ihr Streben nach Exzellenz war immer eine treibende Kraft in ihrer Karriere.
+to run off;[tu ran of];weglaufen, abfließen;The rainwater began to run off the roof and into the gutters.;Das Regenwasser begann vom Dach abzulaufen und in die Dachrinnen zu fließen.
+to run sb. off;[tu ran sb. of];jdn. verjagen;They managed to run off the intruders before any harm was done.;Sie schafften es, die Eindringlinge zu verjagen, bevor Schaden angerichtet wurde.
+revitalization;[ree-vai-ta-li-zey-schon];Wiederbelebung;The city's revitalization project aims to attract more businesses.;Das Wiederbelebungsprojekt der Stadt soll mehr Unternehmen anziehen.
+capability;[käy-pa-bil-i-ti];Fähigkeit;She has the capability to lead the team through challenging times.;Sie hat die Fähigkeit, das Team durch schwierige Zeiten zu führen.
+societal;[so-si-e-tal];gesellschaftlich, sozial;Societal changes are influencing the way people think and behave.;Gesellschaftliche Veränderungen beeinflussen, wie Menschen denken und sich verhalten.
+to care for sb.;[tu ker for sb.];sich um jdn. kümmern;She has been caring for her elderly parents for the past decade.;Sie kümmert sich seit einem Jahrzehnt um ihre betagten Eltern.
+to prosper;[tu pros-per];gedeihen, wachsen;With the right investments, small businesses can prosper.;Mit den richtigen Investitionen können kleine Unternehmen gedeihen.
+medication;[me-di-kay-schon];Medikamente;He was prescribed medication to manage his chronic pain.;Ihm wurden Medikamente verschrieben, um seine chronischen Schmerzen zu lindern.
+drug;[drag];Droge, Medikament;Some drugs are available over the counter, while others require a prescription.;Einige Medikamente sind rezeptfrei erhältlich, während andere verschreibungspflichtig sind.
+disorder;[dis-or-der];Störung, Durcheinander;He was diagnosed with a sleep disorder that affects his daily life.;Er wurde mit einer Schlafstörung diagnostiziert, die seinen Alltag beeinträchtigt.
+to relapse;[tu ree-laps];rückfällig werden;After months of sobriety, he unfortunately relapsed.;Nach Monaten der Nüchternheit wurde er leider rückfällig.
+attitude towards sb.;[at-i-tjuhd to-wards sb.];Einstellung zu jdn.;Her attitude towards her colleagues is always respectful and supportive.;Ihre Einstellung gegenüber ihren Kollegen ist stets respektvoll und unterstützend.
+chef;[schef];Koch;The chef prepared a delicious three-course meal for the guests.;Der Koch bereitete ein köstliches Drei-Gänge-Menü für die Gäste zu.
+diagnosis;[dai-ag-no-sis];Diagnose;The diagnosis was made after several tests and consultations.;Die Diagnose wurde nach mehreren Tests und Beratungen gestellt.
+illness;[ill-ness];Krankheit;She took time off work to recover from her illness.;Sie nahm sich Zeit von der Arbeit, um sich von ihrer Krankheit zu erholen.
+the cause of a problem;[the kawz of a prob-lem];die Ursache eines Problems;Understanding the cause of a problem is the first step to solving it.;Das Verständnis der Ursache eines Problems ist der erste Schritt zu seiner Lösung.
+to diagnose;[tu dai-ag-nohs];diagnostizieren;The doctor was able to diagnose the condition quickly based on the symptoms.;Der Arzt konnte die Erkrankung anhand der Symptome schnell diagnostizieren.
+to examine;[tu ex-am-in];untersuchen;The scientist will examine the samples under a microscope.;Der Wissenschaftler wird die Proben unter einem Mikroskop untersuchen.
+to trial;[tu trai-el];testen;They plan to trial the new software before rolling it out company-wide.;Sie planen, die neue Software zu testen, bevor sie im gesamten Unternehmen eingeführt wird.
+trial;[trai-el];Test, Versuch;The trial phase of the project was crucial to its success.;Die Testphase des Projekts war entscheidend für seinen Erfolg.
+blood sample;[bluhd sam-pel];Blutprobe;The nurse took a blood sample to check for any infections.;Die Krankenschwester nahm eine Blutprobe, um auf Infektionen zu prüfen.
+symptom;[simp-tom];Symptom;Fever and cough are common symptoms of the flu.;Fieber und Husten sind häufige Symptome der Grippe.
+headache;[hed-eyk];Kopfschmerzen;He took some painkillers to relieve his headache.;Er nahm Schmerzmittel, um seine Kopfschmerzen zu lindern.
+diagnosis;[dai-ag-no-sis];Diagnose;After the final diagnosis, the doctor discussed the treatment options.;Nach der endgültigen Diagnose besprach der Arzt die Behandlungsoptionen.
+rollout;[rohl-out];Markteinführung;The rollout of the new product will happen in the next quarter.;Die Markteinführung des neuen Produkts wird im nächsten Quartal erfolgen.
+fleeting;[flee-ting];vergänglich, flüchtig;She enjoyed a fleeting moment of peace before the chaos resumed.;Sie genoss einen flüchtigen Moment des Friedens, bevor das Chaos wieder begann.
+to savour sth.;[tu säy-vor sth.];etw. genießen;He took a moment to savour the taste of the freshly baked bread.;Er nahm sich einen Moment Zeit, um den Geschmack des frisch gebackenen Brotes zu genießen.
+to relish sth.;[tu rel-ish sth.];etw. genießen;She relished the opportunity to spend time with her family.;Sie genoss die Gelegenheit, Zeit mit ihrer Familie zu verbringen.
+gratitude;[grat-i-tyuud];Dankbarkeit;She expressed her gratitude to all who supported her during the tough times.;Sie drückte ihre Dankbarkeit gegenüber allen aus, die sie in schwierigen Zeiten unterstützt haben.
+cookie-cutter approach;[kookie-kutter approach];Schema F;The cookie-cutter approach to education does not work for every student.;Das Schema-F in der Bildung funktioniert nicht für jeden Schüler.
+grateful;[greyt-ful];dankbar;She was grateful for the help she received from her friends.;Sie war dankbar für die Hilfe, die sie von ihren Freunden erhalten hatte.
+Have a great one as well;[hav a greyt wun as wel];Besser als „You too“;When someone wishes you a good day, respond with "Have a great one as well.";Wenn jemand Ihnen einen schönen Tag wünscht, antworten Sie mit „Besser als „You too““.
+Wishing you the same;[wish-ing yu the seym];Ich wünsche dir das Gleiche;After receiving good wishes, you can say, "Wishing you the same.";Nach dem Erhalt guter Wünsche können Sie sagen: „Ich wünsche dir das Gleiche.“
+dessert;[de-zert];Dessert, Nachtisch;She ordered a chocolate mousse for dessert.;Sie bestellte eine Schokoladenmousse zum Nachtisch.
+chase;[tschays];Jagd, Verfolgung;The police were involved in a high-speed chase down the highway.;Die Polizei war in eine Hochgeschwindigkeitsverfolgung auf der Autobahn verwickelt.
+praise;[preys];Lob, Kompliment;The teacher's praise boosted the student's confidence.;Das Lob des Lehrers stärkte das Selbstbewusstsein des Schülers.
+leisurely;[le-scher-li];gemütlich, ohne Eile;They took a leisurely stroll along the beach.;Sie machten einen gemütlichen Spaziergang am Strand.
+stroll/walk;[strohl/wawk];Spaziergang;They enjoyed a quiet stroll in the park.;Sie genossen einen ruhigen Spaziergang im Park.
+abundance;[a-bun-dans];Überfluss;The garden was filled with an abundance of flowers.;Der Garten war voller Blumen im Überfluss.
+to attain sth.;[tu a-teyn sth.];etw. erhalten, erreichen;She worked hard to attain her professional goals.;Sie arbeitete hart daran, ihre beruflichen Ziele zu erreichen.
+to relish;[tu rel-ish];genießen;He relished the challenge of a difficult project.;Er genoss die Herausforderung eines schwierigen Projekts.
+elusive;[e-lu-siv];trügerisch, schwer fassbar;The answer to the mystery was elusive, leaving everyone puzzled.;Die Antwort auf das Rätsel war trügerisch und ließ alle ratlos zurück.
+evasive;[e-va-siv];ausweichend, schwer fassbar;His answers were evasive, making it hard to get a straight response.;Seine Antworten waren ausweichend, was es schwer machte, eine klare Antwort zu bekommen.
+to cultivate;[tu kal-ti-veyt];anbauen, entwickeln;She decided to cultivate her own vegetables in the backyard.;Sie beschloss, ihr eigenes Gemüse im Garten anzubauen.
+to strive;[tu straiv];streben;He continued to strive for excellence in all his endeavors.;Er strebte weiterhin nach Exzellenz in all seinen Unternehmungen.
+to strive for more;[tu straiv for mor];nach mehr streben;Despite his success, he always strives for more.;Trotz seines Erfolgs strebt er immer nach mehr.
+flaw;[flaw];Fehler, Schwachstelle;Every plan has its flaw, but we must work to minimize them.;Jeder Plan hat seine Schwachstelle, aber wir müssen daran arbeiten, sie zu minimieren.
+possession;[po-ses-chun];Eigentum;The ring is her most treasured possession.;Der Ring ist ihr wertvollster Besitz.
+serenity;[se-ren-i-ti];Gelassenheit;She found serenity in the quiet of the mountains.;Sie fand Gelassenheit in der Stille der Berge.
+to indulge;[tu in-dulj];verwöhnen, nachgeben;He decided to indulge in his favorite dessert after a long day.;Er beschloss, sich nach einem langen Tag mit seinem Lieblingsdessert zu verwöhnen.
+to brew;[tu bru];brauen, brühen;She likes to brew her own coffee every morning.;Sie brüht jeden Morgen ihren eigenen Kaffee.
+to grind;[tu greind];mahlen, zermahlen, zerreiben;They used a stone mill to grind the grains into flour.;Sie benutzten eine Steinmühle, um die Körner zu Mehl zu mahlen.
+to concoct;[tu kon-kokt];zubereiten, zusammenbrauen;She managed to concoct a delicious soup from the leftovers.;Sie schaffte es, aus den Resten eine köstliche Suppe zuzubereiten.
+scent;[sent];Duft, Geruch;The scent of fresh roses filled the room.;Der Duft frischer Rosen erfüllte den Raum.
+aroma;[a-ro-ma];Aroma;The rich aroma of the coffee was inviting.;Das reichhaltige Aroma des Kaffees war einladend.
+fragrance;[frey-grans];Duft;She chose a perfume with a light floral fragrance.;Sie wählte ein Parfum mit einem leichten Blumenduft.
+eager;[ee-ger];begierig;She was eager to learn about different cultures.;Sie war begierig darauf, etwas über verschiedene Kulturen zu lernen.
+harvest;[har-vest];Ernte;The farmers were busy preparing for the harvest.;Die Bauern waren damit beschäftigt, die Ernte vorzubereiten.
+to harvest;[tu har-vest];ernten;They decided to harvest the grapes earlier this year.;Sie beschlossen, die Trauben dieses Jahr früher zu ernten.
+to roast;[tu rohst];rösten;He likes to roast his own coffee beans for a fresher taste.;Er röstet gerne seine eigenen Kaffeebohnen für einen frischeren Geschmack.
+caffeine;[ka-feen];Koffein;She prefers decaffeinated coffee because it has less caffeine.;Sie bevorzugt entkoffeinierten Kaffee, weil er weniger Koffein enthält.
+alertness;[a-lert-ness];Aufmerksamkeit;Caffeine is known to improve alertness and concentration.;Koffein ist bekannt dafür, die Aufmerksamkeit und Konzentration zu verbessern.
+decaffeinated;[di-ka-fei-nei-tid];entkoffeiniert;He switched to decaffeinated drinks in the afternoon to avoid insomnia.;Er wechselte nachmittags zu entkoffeinierten Getränken, um Schlaflosigkeit zu vermeiden.
+custom (noun);[kas-tum];Brauch, Gewohnheit;It is a local custom to greet strangers with a bow.;Es ist ein lokaler Brauch, Fremde mit einer Verbeugung zu begrüßen.
+custom (adj.);[kas-tum];kundenspezifisch;The tailor offers custom suits that fit perfectly.;Der Schneider bietet maßgeschneiderte Anzüge an, die perfekt passen.
+passed down through generations;[pasd daun thru jen-er-ey-schuns];über Generationen hinweg weitergegeben;The family recipe was passed down through generations.;Das Familienrezept wurde über Generationen hinweg weitergegeben.
+cherished;[cher-isht];geschätzt;The old photograph is a cherished memory of her childhood.;Das alte Foto ist eine geschätzte Erinnerung an ihre Kindheit.
+habit-forming;[ha-bit-form-ing];süchtig machend;Nicotine is highly habit-forming, making it hard to quit smoking.;Nikotin ist stark süchtig machend, was es schwer macht, mit dem Rauchen aufzuhören.
+revered;[ri-vird];verehrt, geachtet;He is revered by his community for his generosity.;Er wird von seiner Gemeinschaft für seine Großzügigkeit verehrt.
+beverage;[bev-ridj];Getränk;Water is the most recommended beverage for hydration.;Wasser ist das am meisten empfohlene Getränk zur Hydration.
+humble;[hum-bel];bescheiden;Despite his wealth, he remained humble and approachable.;Trotz seines Reichtums blieb er bescheiden und zugänglich.
+to humble sb.;[tu hum-bel sb.];jdn. demütigen;The defeat humbled him, making him realize he wasn't invincible.;Die Niederlage demütigte ihn und ließ ihn erkennen, dass er nicht unbesiegbar war.
+to grace;[tu greys];schmücken, zieren;The beautiful flowers graced the entrance of the hotel.;Die schönen Blumen schmückten den Eingang des Hotels.
+lush;[lush];üppig, luxuriös (Pflanzen);The garden was filled with lush greenery and vibrant flowers.;Der Garten war mit üppigem Grün und lebendigen Blumen gefüllt.
+to thrive;[tu thraiv];gedeihen;The new business thrived in its first year, surpassing all expectations.;Das neue Unternehmen gedieh im ersten Jahr und übertraf alle Erwartungen.
+intricate;[in-trik-it];kompliziert;The artist's intricate designs were highly admired by all visitors.;Die komplizierten Entwürfe des Künstlers wurden von allen Besuchern hoch geschätzt.
+ripe;[raip];reif;The farmer waited until the apples were ripe before harvesting them.;Der Bauer wartete, bis die Äpfel reif waren, bevor er sie erntete.
+meticulous;[me-tik-yuh-luhs];sorgfältig, akribisch;Her meticulous attention to detail made her an excellent editor.;Ihre akribische Aufmerksamkeit fürs Detail machte sie zu einer ausgezeichneten Redakteurin.
+integrity;[in-teg-ri-ti];Integrität, Rechtschaffenheit;He is known for his integrity and commitment to justice.;Er ist bekannt für seine Integrität und sein Engagement für Gerechtigkeit.
+pulp;[pulp];Fruchtfleisch;The pulp of the orange was sweet and juicy.;Das Fruchtfleisch der Orange war süß und saftig.
+parchment;[parch-ment];Pergament;Ancient texts were often written on parchment, which has preserved them well.;Alte Texte wurden oft auf Pergament geschrieben, das sie gut erhalten hat.
+subjected to heat;[sub-jek-tid tu heet];der Wärme ausgesetzt;The material was subjected to heat to test its durability.;Das Material wurde der Wärme ausgesetzt, um seine Haltbarkeit zu testen.
+subjected;[sub-jek-tid];unterworfen;The citizens were subjected to new laws that limited their freedoms.;Die Bürger wurden neuen Gesetzen unterworfen, die ihre Freiheiten einschränkten.
+inherent;[in-hair-ent];innewohnend, inhärent;There is an inherent risk in any form of investment.;In jeder Form von Investition liegt ein inhärentes Risiko.
+floral;[flo-ral];blumig;She chose a perfume with a subtle floral scent.;Sie wählte ein Parfum mit einem subtilen blumigen Duft.
+allure;[a-lur];Reiz;The allure of the city is its vibrant culture and history.;Der Reiz der Stadt liegt in ihrer lebendigen Kultur und Geschichte.
+to allure;[tu a-lur];verführen;The promise of adventure allured him into joining the expedition.;Das Versprechen auf Abenteuer verführte ihn dazu, der Expedition beizutreten.
+to intertwine;[tu in-ter-twien];ineinandergreifen, verflechten;Their fates seemed to intertwine in a way neither could have predicted.;Ihre Schicksale schienen auf eine Weise ineinanderzugreifen, die keiner von beiden vorhersehen konnte.
+lively;[lai-vli];munter, lebhaft;The market was filled with lively music and colorful stalls.;Der Markt war voller lebhafter Musik und bunter Stände.
+hospitality;[hos-pi-ta-li-ti];Gastfreundlichkeit;They were known for their warm hospitality and welcoming nature.;Sie waren bekannt für ihre herzliche Gastfreundlichkeit und freundliche Art.
+to foster;[tu fos-ter];begünstigen, fördern;The government aims to foster innovation through grants and incentives.;Die Regierung strebt an, Innovationen durch Zuschüsse und Anreize zu fördern.
+much-needed;[much-nee-did];dringend benötigt;The new hospital provided much-needed care to the rural community.;Das neue Krankenhaus bot der ländlichen Gemeinde dringend benötigte Versorgung.
+pick-me-up;[pik-mi-ap];Stärkungsmittel;A hot cup of coffee is a great pick-me-up in the morning.;Eine heiße Tasse Kaffee ist ein großartiges Stärkungsmittel am Morgen.
+jitteriness;[jit-er-i-ness];Übernervosität, Zittern;The caffeine caused jitteriness and made it hard for her to concentrate.;Das Koffein verursachte Übernervosität und erschwerte ihr die Konzentration.
+to jitter;[tu jit-er];zittern;He began to jitter nervously during the interview.;Er begann während des Interviews nervös zu zittern.
+insomnia;[in-som-ni-a];Schlaflosigkeit;She suffered from insomnia due to stress and anxiety.;Sie litt aufgrund von Stress und Angstzuständen unter Schlaflosigkeit.
+versatility;[ver-sa-ti-li-ti];Vielseitigkeit;The versatility of the tool makes it useful for a variety of tasks.;Die Vielseitigkeit des Werkzeugs macht es für eine Vielzahl von Aufgaben nützlich.
+to indulge;[tu in-dulj];nachgeben, genießen;On weekends, she likes to indulge in a good book and a cup of tea.;An Wochenenden genießt sie es, in ein gutes Buch und eine Tasse Tee zu versinken.
+frothy;[fro-thi];schaumig;The barista made a frothy cappuccino with extra foam.;Der Barista bereitete einen schaumigen Cappuccino mit extra Schaum zu.
+savory;[sey-vuh-ree];herzhaft;The savory pie was filled with chicken and vegetables.;Die herzhafte Pastete war mit Huhn und Gemüse gefüllt.
+unparalleled;[un-par-al-eld];einmalig, unvergleichlich;Her dedication to the project was unparalleled.;Ihre Hingabe an das Projekt war unvergleichlich.
+wages;[wey-jiz];Lohn, Gehalt;The workers demanded higher wages and better working conditions.;Die Arbeiter forderten höhere Löhne und bessere Arbeitsbedingungen.
+wage;[weyj];Lohn, Gehalt;He earns a decent wage working as a carpenter.;Er verdient einen anständigen Lohn als Schreiner.
+to savor;[tu sey-ver];genießen;He savored every bite of the gourmet meal.;Er genoss jeden Bissen des Gourmet-Menüs.
+out-of-the-way;[owt-of-the-wey];abgelegen, ungewöhnlich;They discovered an out-of-the-way café with amazing pastries.;Sie entdeckten ein abgelegenes Café mit erstaunlichen Gebäckstücken.
+destination;[des-ti-ney-schon];Reiseziel, Ziel;Paris is a popular tourist destination known for its culture and cuisine.;Paris ist ein beliebtes Reiseziel, das für seine Kultur und Küche bekannt ist.
+remote, distant;[ri-moht, dis-tant];fern, entfernt;The remote village is difficult to access by car.;Das abgelegene Dorf ist mit dem Auto schwer erreichbar.
+far-flung;[far-flung];weit verstreut, entlegen;His job takes him to far-flung places around the globe.;Sein Job führt ihn an weit verstreute Orte auf der ganzen Welt.
+idyllic, quaint;[i-dil-ik, kweynt];idyllisch, malerisch;They stayed in an idyllic, quaint cottage by the lake.;Sie übernachteten in einem idyllischen, malerischen Häuschen am See.
+picturesque;[pik-cher-esk];malerisch;The village is known for its picturesque views and charming streets.;Das Dorf ist bekannt für seine malerischen Ausblicke und charmanten Straßen.
+rustic;[rus-tik];urig, ländlich;The rustic cabin was perfect for a weekend getaway in the woods.;Die urige Hütte war perfekt für einen Wochenendausflug in den Wald.
+cottage;[kot-ij];Häuschen, Cottage;They rented a cozy cottage for their holiday.;Sie mieteten ein gemütliches Häuschen für ihren Urlaub.
+secluded;[se-kloo-did];abgelegen;They found a secluded beach that was perfect for a quiet day.;Sie fanden einen abgelegenen Strand, der perfekt für einen ruhigen Tag war.
+relaxation;[re-lak-sey-schon];Erholung;The spa offered various treatments designed for relaxation.;Das Spa bot verschiedene Behandlungen zur Erholung an.
+off-the-beaten-path;[of-the-bee-ten-päth];abseits ausgetretener Pfade;They prefer to travel off-the-beaten-path to discover unique experiences.;Sie bevorzugen es, abseits ausgetretener Pfade zu reisen, um einzigartige Erlebnisse zu entdecken.
+crowds;[krawd];Menschenmassen;The concert attracted large crowds from all over the city.;Das Konzert zog große Menschenmassen aus der ganzen Stadt an.
+tranquil, serene;[trank-wil, se-reen];ruhig, gelassen;The lake was tranquil and serene, offering a peaceful retreat.;Der See war ruhig und gelassen und bot einen friedlichen Rückzugsort.
+haven;[hey-vn];Zufluchtsort, Oase;The library was a haven for students needing a quiet place to study.;Die Bibliothek war ein Zufluchtsort für Studenten, die einen ruhigen Ort zum Lernen brauchten.
+trap;[träp];Falle;The mouse was caught in a trap set in the kitchen.;Die Maus wurde in einer in der Küche aufgestellten Falle gefangen.
+to long for;[tu long for];sich sehnen nach;He longed for the day when he could finally return home.;Er sehnte sich nach dem Tag, an dem er endlich nach Hause zurückkehren konnte.
+hustle and bustle;[hus-l and bus-l];Gedränge, Trubel;She enjoys the hustle and bustle of city life.;Sie genießt das Gedränge und den Trubel des Stadtlebens.
+tucked away;[tukt a-wey];versteckt, verstaut;The secret garden was tucked away behind a tall hedge.;Der geheime Garten war hinter einer hohen Hecke versteckt.
+cobblestone;[kob-l-stohn];Pflasterstein;The old town is known for its charming cobblestone streets.;Die Altstadt ist bekannt für ihre charmanten Pflasterstraßen.
+crowds;[krawd];Menschenmassen;The festival attracted crowds of tourists each year.;Das Festival zog jedes Jahr Menschenmassen von Touristen an.
+valley;[vä-li];Tal, Senke;The valley was surrounded by towering mountains on all sides.;Das Tal war auf allen Seiten von hohen Bergen umgeben.
+backdrop;[bäck-drop];Kulisse, Hintergrund;The mountains provided a stunning backdrop for the wedding ceremony.;Die Berge boten eine atemberaubende Kulisse für die Hochzeitszeremonie.
+rugged;[ra-gid];felsig, robust;The rugged terrain made the hike challenging but rewarding.;Das felsige Gelände machte die Wanderung herausfordernd, aber lohnend.
+abundant;[a-bun-dant];reichlich;The area is known for its abundant wildlife.;Die Gegend ist bekannt für ihre reichhaltige Tierwelt.
+pristine;[pris-tiin];unberührt, makellos;The beach was pristine, with crystal-clear waters and soft sand.;Der Strand war unberührt, mit kristallklarem Wasser und weichem Sand.
+hammock;[häm-ock];Hängematte;They set up a hammock between two trees to relax in the shade.;Sie spannten eine Hängematte zwischen zwei Bäumen auf, um sich im Schatten zu entspannen.
+to embark;[tu em-bark];einsteigen (in Boot, Schiff, Flugzeug);They decided to embark on a journey around the world.;Sie beschlossen, sich auf eine Reise um die Welt zu begeben.
+to desert sb.;[tu di-zert sb.];jdn. verlassen (im Stich lassen);He felt betrayed when his friends deserted him in his time of need.;Er fühlte sich verraten, als seine Freunde ihn in seiner Notlage verließen.
+deserted;[di-zert-id];verlassen;The once bustling town was now deserted and in ruins.;Die einst geschäftige Stadt war nun verlassen und in Trümmern.
+scattered;[skät-er-ed];vereinzelt, verstreut;The scattered villages were spread across the mountainous region.;Die verstreuten Dörfer waren über die bergige Region verteilt.
+riots;[rai-ots];Unruhen, Aufstände;The government imposed a curfew to control the riots.;Die Regierung verhängte eine Ausgangssperre, um die Unruhen zu kontrollieren.
+volunteer;[vol-un-tir];ehrenamtlich, Freiwilliger;She decided to volunteer at the local animal shelter.;Sie beschloss, sich im örtlichen Tierheim ehrenamtlich zu engagieren.
+willingly;[will-ing-li];bereitwillig;He willingly helped his neighbor with the repairs.;Er half seinem Nachbarn bereitwillig bei den Reparaturen.
+empathy;[em-pa-thi];Empathie;Her empathy towards others made her a great listener.;Ihre Empathie gegenüber anderen machte sie zu einer guten Zuhörerin.
+compassion;[kom-pä-schon];Mitleid;She showed great compassion for the homeless in her community.;Sie zeigte großes Mitgefühl für die Obdachlosen in ihrer Gemeinde.
+generosity;[dschi-ne-ro-si-ti];Großzügigkeit;His generosity towards his friends was well known.;Seine Großzügigkeit gegenüber seinen Freunden war wohlbekannt.
+generous;[dschi-ne-rus];großzügig;He was generous with his time, always willing to help others.;Er war großzügig mit seiner Zeit und immer bereit, anderen zu helfen.
+open-handedness;[o-pen-händ-ed-ness];Offenheit, Großmut;Her open-handedness earned her the respect of everyone she met.;Ihre Großmut brachte ihr den Respekt aller ein, die sie traf.
+unselfishness;[un-sel-fish-ness];Selbstlosigkeit;His unselfishness was evident in the way he cared for others.;Seine Selbstlosigkeit zeigte sich in der Art und Weise, wie er sich um andere kümmerte.
+appreciation;[a-pre-shi-ey-schon];Anerkennung;She showed her appreciation with a heartfelt thank you.;Sie zeigte ihre Anerkennung mit einem herzlichen Dank.
+considerate;[kon-sid-er-it];rücksichtsvoll;He was always considerate of his colleagues' opinions.;Er war immer rücksichtsvoll gegenüber den Meinungen seiner Kollegen.
+gentleness;[dschent-l-ness];Freundlichkeit;Her gentleness with the children made her a favorite teacher.;Ihre Freundlichkeit gegenüber den Kindern machte sie zu einer beliebten Lehrerin.
+benevolence;[be-nev-o-lens];Güte;His benevolence towards the needy was well known.;Seine Güte gegenüber den Bedürftigen war wohlbekannt.
+encouragement;[en-kör-ij-ment];Ermutigung;She offered words of encouragement to those struggling.;Sie bot ermutigende Worte für diejenigen an, die zu kämpfen hatten.
+approval;[a-proo-val];Zustimmung, Anerkennung;The project received approval from all team members.;Das Projekt erhielt die Zustimmung aller Teammitglieder.
+chances;[tschän-sis];Chancen;There are chances for success if we continue to work hard.;Es gibt Chancen auf Erfolg, wenn wir weiterhin hart arbeiten.
+to lend a listening ear;[tu lend a lis-ning eer];ein offenes Ohr haben;He was always there to lend a listening ear to his friends.;Er war immer da, um seinen Freunden ein offenes Ohr zu leihen.
+charitable;[tschär-i-ta-bel];gemeinnützig;She supports many charitable organizations with her donations.;Sie unterstützt viele gemeinnützige Organisationen mit ihren Spenden.
+ripple effect;[rip-l e-fekt];Welleneffekt;The decision had a ripple effect, impacting many departments.;Die Entscheidung hatte einen Welleneffekt, der viele Abteilungen beeinflusste.
+genuine;[dschen-yu-in];echt, aufrichtig;She gave a genuine smile that warmed everyone's hearts.;Sie schenkte ein echtes Lächeln, das alle Herzen erwärmte.
+to foster sth.;[tu fos-ter sth.];etw. fördern, pflegen;The program was designed to foster a love of reading in children.;Das Programm wurde entwickelt, um die Leselust bei Kindern zu fördern.
+to acknowledge;[tu ak-nol-idj];anerkennen;He was quick to acknowledge the contributions of his team.;Er war schnell dabei, die Beiträge seines Teams anzuerkennen.
+regularly;[reg-yu-lar-li];regelmäßig;She exercises regularly to maintain her health.;Sie trainiert regelmäßig, um ihre Gesundheit zu erhalten.
+to engage sb.;[tu en-geydsch sb.];jdn. anheuern, beschäftigen;The company decided to engage an external consultant.;Das Unternehmen beschloss, einen externen Berater zu engagieren.
+fulfillment;[ful-fill-ment];Erfüllung;She found fulfillment in helping others through her volunteer work.;Sie fand Erfüllung darin, anderen durch ihre ehrenamtliche Arbeit zu helfen.
+(gentleness) towards someone;[(dschent-l-ness) to-wards];(Freundlichkeit) gegenüber jmd.;Her gentleness towards others made her a beloved community member.;Ihre Freundlichkeit gegenüber anderen machte sie zu einem beliebten Gemeindemitglied.
+in need;[in niid];in Not;The organization provides support for those in need.;Die Organisation bietet Unterstützung für Menschen in Not.
+belonging;[be-long-ing];Zugehörigkeit;She felt a strong sense of belonging in her new community.;Sie fühlte ein starkes Gefühl der Zugehörigkeit in ihrer neuen Gemeinschaft.
+to witness sth.;[tu wit-ness sth.];etw. erleben;He was fortunate to witness the birth of his first child.;Er hatte das Glück, die Geburt seines ersten Kindes zu erleben.
+compelling;[kom-pell-ing];zwingend, fesselnd;The novel was so compelling that she couldn't put it down.;Der Roman war so fesselnd, dass sie ihn nicht aus der Hand legen konnte.
+to evoke sth.;[tu i-voke sth.];etw. hervorrufen;The painting evokes a sense of nostalgia and longing.;Das Gemälde ruft ein Gefühl von Nostalgie und Sehnsucht hervor.
+admiration;[ad-mi-rey-schon];Bewunderung;He expressed his admiration for her dedication to the cause.;Er drückte seine Bewunderung für ihre Hingabe an die Sache aus.
+portrayal;[por-tray-al];Darstellung;Her portrayal of the character was both nuanced and powerful.;Ihre Darstellung der Figur war sowohl nuanciert als auch kraftvoll.
+delineation;[de-lin-i-ey-schon];Beschreibung;The report provides a clear delineation of the project's objectives.;Der Bericht bietet eine klare Beschreibung der Projektziele.
+suspenseful;[sus-pens-ful];spannend;The movie was suspenseful from start to finish.;Der Film war von Anfang bis Ende spannend.
+apprehension;[ap-re-hen-schon];Befürchtung, Besorgnis;There was a sense of apprehension as the storm approached.;Es herrschte eine gewisse Besorgnis, als sich der Sturm näherte.
+witty;[wit-i];witzig, geistreich;His witty remarks always lightened the mood at parties.;Seine geistreichen Bemerkungen lockerten die Stimmung auf Partys immer auf.
+accompanying;[a-kom-pan-ying];begleitend;She handed out the report with accompanying documents for reference.;Sie verteilte den Bericht mit den begleitenden Dokumenten als Referenz.
+to evolve;[tu i-volv];sich entwickeln;Over the years, her art style has evolved significantly.;Im Laufe der Jahre hat sich ihr Kunststil erheblich entwickelt.
+sorrow;[sor-row];Leid, Trauer;He felt deep sorrow after the loss of his friend.;Er fühlte tiefe Trauer nach dem Verlust seines Freundes.
+villain;[vil-len];Bösewicht;The villain in the story plotted to take over the world.;Der Bösewicht in der Geschichte plante, die Welt zu erobern.
+to immerse oneself in sth.;[tu i-mers wuns-zelf in sth.];in etw. eintauchen;She likes to immerse herself in a good book on a rainy day.;Sie taucht an einem regnerischen Tag gerne in ein gutes Buch ein.
+intimate;[in-ti-mit];vertraulich;They had an intimate conversation about their future plans.;Sie hatten ein vertrauliches Gespräch über ihre Zukunftspläne.
+eagerly;[ee-ger-li];eifrig, erwartungsvoll;The children eagerly waited for the ice cream truck to arrive.;Die Kinder warteten eifrig auf das Eintreffen des Eiswagens.
+catchy;[kät-schi];einprägsam;The song has a catchy tune that stays in your head.;Das Lied hat eine einprägsame Melodie, die im Kopf bleibt.
+plot;[plot];Handlung;The plot of the novel is filled with unexpected twists.;Die Handlung des Romans ist voller unerwarteter Wendungen.
+dragging;[drägg-ing];ziehend, schleppend;The meeting was dragging on, with no end in sight.;Das Meeting zog sich hin, ohne ein Ende in Sicht.
+redemption;[re-demp-schon];Einlösung, Erlösung;The character's journey was one of redemption and self-discovery.;Die Reise des Charakters war eine von Erlösung und Selbstfindung.
+suspense;[sus-pens];Spannung;The film kept us in suspense until the very last scene.;Der Film hielt uns bis zur letzten Szene in Spannung.
+profound;[pro-faund];tiefgründig, fundiert;His speech had a profound impact on everyone in the room.;Seine Rede hatte einen tiefgründigen Einfluss auf alle im Raum.
+subconscious;[sub-kon-schus];unterbewusst;Her fears were rooted in her subconscious mind.;Ihre Ängste waren im Unterbewusstsein verankert.
+conscious;[kon-schus];bewusst;He made a conscious effort to improve his diet.;Er unternahm einen bewussten Versuch, seine Ernährung zu verbessern.
+awareness;[a-wehr-ness];Wahrnehmung, Bewusstsein;Raising awareness about climate change is crucial for global action.;Das Bewusstsein für den Klimawandel zu schärfen, ist für globale Maßnahmen entscheidend.
+latent;[lay-tent];verborgen, latent;His latent talent for music was discovered quite late in life.;Sein verborgenes Musiktalent wurde erst spät im Leben entdeckt.
+to reveal;[tu re-veel];aufdecken;The investigation revealed the true extent of the corruption.;Die Untersuchung deckte das wahre Ausmaß der Korruption auf.
+to manifest sth.;[tu ma-ni-fest sth.];etw. manifestieren;She worked hard to manifest her dreams into reality.;Sie arbeitete hart daran, ihre Träume in die Realität umzusetzen.
+recurring;[re-kur-ring];wiederkehrend;He had recurring dreams about the same mysterious place.;Er hatte wiederkehrende Träume über denselben geheimnisvollen Ort.
+to repress sth.;[tu re-press sth.];etw. unterdrücken;He tried to repress his anger during the discussion.;Er versuchte, seine Wut während der Diskussion zu unterdrücken.
+unease;[un-eez];Unbehagen, Besorgnis;There was a sense of unease in the room as the debate heated up.;Es herrschte ein Gefühl des Unbehagens im Raum, als die Debatte aufkochte.
+imminent;[im-i-nent];bevorstehend;The arrival of the storm was imminent, and people began to evacuate.;Das Eintreffen des Sturms stand bevor, und die Menschen begannen zu evakuieren.
+Freudian;[froi-di-an];freudsch, Freud betreffend;Freudian theories often explore the impact of childhood on adult behavior.;Freudsche Theorien untersuchen oft den Einfluss der Kindheit auf das Erwachsenenverhalten.
+to concern;[tu kon-sörn];betreffen, angehen;The new law concerns everyone living in the city.;Das neue Gesetz betrifft alle, die in der Stadt leben.
+to suggest;[tu sug-dschest];andeuten, hinweisen;Her smile suggested that she was pleased with the outcome.;Ihr Lächeln deutete darauf hin, dass sie mit dem Ergebnis zufrieden war.
+to rationalize;[tu rä-scho-na-lize];rationalisieren;He tried to rationalize his decision to leave the company.;Er versuchte, seine Entscheidung, das Unternehmen zu verlassen, zu rationalisieren.
+to attribute;[tu at-ri-bjuut];zuschreiben;She attributes her success to hard work and perseverance.;Sie schreibt ihren Erfolg harter Arbeit und Ausdauer zu.
+puzzling;[puz-ling];rätselhaft;The detective found the clues puzzling and difficult to connect.;Der Detektiv fand die Hinweise rätselhaft und schwer zu verbinden.
+peek;[piik];kurzer Blick;She took a quick peek inside the box to see what was inside.;Sie warf einen kurzen Blick in die Schachtel, um zu sehen, was darin war.
+vast;[väst];riesig, gewaltig;The vast desert stretched out as far as the eye could see.;Die riesige Wüste erstreckte sich so weit das Auge reichte.
+to wander;[tu won-der];wandern;They love to wander through the forest during their hikes.;Sie lieben es, bei ihren Wanderungen durch den Wald zu wandern.
+idiom;[i-di-um];Redewendung;"Break the ice" is an idiom meaning to initiate conversation.;„Das Eis brechen“ ist eine Redewendung, die bedeutet, ein Gespräch zu beginnen.
+That's a piece of cake;[däs ä piis of keik];Das ist einfach, Kinderspiel;Solving this math problem is a piece of cake for him.;Dieses Matheproblem zu lösen ist für ihn ein Kinderspiel.
+to hit the hay;[tu hit dhe hey];sich ins Bett legen;I'm exhausted, I think I'll hit the hay early tonight.;Ich bin erschöpft, ich denke, ich werde heute früh ins Bett gehen.
+to retire;[tu ri-tai-er];zurücktreten, in den Ruhestand gehen;He plans to retire after 40 years of service.;Er plant, nach 40 Jahren Dienst in den Ruhestand zu gehen.
+to cost an arm and a leg;[tu kost en arm end ä leg];sehr teuer sein;This designer handbag costs an arm and a leg!;Diese Designertasche ist sehr teuer!
+costly;[kost-li];kostspielig;The repairs were costly, but necessary to ensure safety.;Die Reparaturen waren kostspielig, aber notwendig, um die Sicherheit zu gewährleisten.
+to bite the bullet;[tu bait dhe bul-it];in den sauren Apfel beißen;She decided to bite the bullet and tell her boss the bad news.;Sie beschloss, in den sauren Apfel zu beißen und ihrem Chef die schlechten Nachrichten zu überbringen.
+though;[do];obwohl, jedoch;He enjoyed the movie, though it was quite long.;Er genoss den Film, obwohl er ziemlich lang war.
+to hit the nail on the head;[tu hit dhe neyl on dhe hed];den Nagel auf den Kopf treffen;Her comment really hit the nail on the head about the issue.;Ihr Kommentar traf den Nagel auf den Kopf in Bezug auf das Problem.
+pinpoint;[pin-point];präzise;The GPS can pinpoint your exact location within seconds.;Das GPS kann Ihren genauen Standort innerhalb von Sekunden bestimmen.
+to pinpoint sth.;[tu pin-point sth.];etw. genau bestimmen;They were able to pinpoint the source of the leak.;Sie konnten die Quelle des Lecks genau bestimmen.
+to go the extra mile;[tu go dhe ex-tra mail];einen draufsetzen;She always goes the extra mile to help her students succeed.;Sie setzt sich immer ein Stück weiter ein, um ihren Schülern zum Erfolg zu verhelfen.
+to exert;[tu eg-zert];(Kraft) ausüben;He had to exert a lot of force to move the heavy box.;Er musste viel Kraft aufwenden, um die schwere Kiste zu bewegen.
+to exert oneself;[tu eg-zert wuns-zelf];sich bemühen, anstrengen;She exerted herself to complete the marathon despite the heat.;Sie strengte sich an, um den Marathon trotz der Hitze zu beenden.
+to strive;[tu straiv];streben, sich bemühen;He continues to strive for excellence in his work.;Er strebt weiterhin nach Exzellenz in seiner Arbeit.
+to feel under the weather;[tu fiil under dhe wed-er];sich angeschlagen fühlen;She felt under the weather and decided to stay home from work.;Sie fühlte sich angeschlagen und beschloss, zu Hause zu bleiben.
+indisposed;[in-dis-pohzd];unpässlich;He was indisposed and unable to attend the meeting.;Er war unpässlich und konnte nicht an der Sitzung teilnehmen.
+to spill the beans;[tu spil dhe biins];alles ausplaudern;She accidentally spilled the beans about the surprise party.;Sie hat versehentlich die Überraschungsparty ausgeplaudert.
+to disclose sth.;[tu dis-klohz sth.];etw. enthüllen;The company was forced to disclose its financial records.;Das Unternehmen wurde gezwungen, seine Finanzunterlagen offenzulegen.
+confidential;[kon-fi-den-schel];vertraulich;The report contains confidential information.;Der Bericht enthält vertrauliche Informationen.
+to divulge;[tu di-vulg];etw. enthüllen;He refused to divulge the source of his information.;Er weigerte sich, die Quelle seiner Informationen zu enthüllen.
+to catch the eye;[tu katsch dhe ai];ins Auge fallen;The bright colors of the painting immediately catch the eye.;Die leuchtenden Farben des Gemäldes fallen sofort ins Auge.
+to catch sb.'s eye;[tu katsch sb.'s ai];jds. Aufmerksamkeit erregen;She tried to catch his eye to signal that it was time to leave.;Sie versuchte, seine Aufmerksamkeit zu erregen, um ihm zu signalisieren, dass es Zeit war zu gehen.
+to draw notice;[tu draw noh-tis];Aufmerksamkeit erregen;His unique style of writing quickly drew notice from critics.;Sein einzigartiger Schreibstil erregte schnell die Aufmerksamkeit der Kritiker.
+to grab someone's attention;[tu grab sam-wunz a-ten-schon];jds. Aufmerksamkeit erlangen;The advertisement was designed to grab the viewer's attention immediately.;Die Werbung war so gestaltet, dass sie sofort die Aufmerksamkeit des Betrachters erlangt.
+humor;[hyu-mor];Humor;His sense of humor always lightens the mood in the office.;Sein Sinn für Humor lockert immer die Stimmung im Büro auf.
+quirky;[kwör-ki];skurril;The movie was filled with quirky characters and unexpected plot twists.;Der Film war voller skurriler Charaktere und unerwarteter Wendungen.
+lively;[lai-vli];lebhaft;The city has a lively nightlife with many bars and clubs.;Die Stadt hat ein lebhaftes Nachtleben mit vielen Bars und Clubs.
+head-on;[hed-on];frontal;They faced the challenges head-on, without hesitation.;Sie stellten sich den Herausforderungen frontal, ohne zu zögern.
+to break the ice;[tu breyk dhi ays];das Eis brechen;He told a joke to break the ice at the start of the meeting.;Er erzählte einen Witz, um das Eis zu Beginn der Sitzung zu brechen.
+to cheer sb. up;[tu cheer sb. ap];jdn. aufheitern;She brought flowers to cheer her friend up.;Sie brachte Blumen, um ihre Freundin aufzuheitern.
+unwell;[un-wel];unwohl;He felt unwell after eating the seafood.;Er fühlte sich nach dem Verzehr der Meeresfrüchte unwohl.
+to feel unwell;[tu fiil un-wel];sich krank fühlen;If you feel unwell, it's best to see a doctor.;Wenn Sie sich krank fühlen, ist es am besten, einen Arzt aufzusuchen.
+to attract;[tu at-trakt];anziehen, anlocken;The new museum exhibition attracted thousands of visitors.;Die neue Museumsausstellung zog Tausende von Besuchern an.
+sb. caught a cold;[sb. kot ä kold];jdn. hat sich erkältet;She caught a cold after being out in the rain.;Sie hat sich nach einem Aufenthalt im Regen erkältet.
+I caught him in a lie;[ai kot him in ä lai];ich ertappte ihn beim Lügen;I caught him in a lie about where he was last night.;Ich ertappte ihn beim Lügen darüber, wo er letzte Nacht war.
+downtown;[doun-taun];Innenstadt, innerstädtisch;They decided to move to a downtown apartment for convenience.;Sie beschlossen, in eine Innenstadtwohnung zu ziehen, um Bequemlichkeit zu haben.
+origin;[or-i-dschin];Herkunft;The origin of the tradition is still debated by historians.;Die Herkunft der Tradition wird von Historikern noch diskutiert.
+to arise from;[tu ä-rais from];entspringen aus;Many misunderstandings arise from a lack of communication.;Viele Missverständnisse entstehen aus mangelnder Kommunikation.
+to derive from sb./sth.;[tu di-raiv from sb./sth.];von jdm./etw. abstammen;Many English words are derived from Latin.;Viele englische Wörter stammen aus dem Lateinischen.
+to date back;[tu deyt bæk];zurückreichen bis;The ruins date back to the Roman Empire.;Die Ruinen reichen bis ins Römische Reich zurück.
+celestial;[se-les-chal];himmlisch, überirdisch;They marveled at the celestial beauty of the stars.;Sie bestaunten die himmlische Schönheit der Sterne.
+mythology;[mi-thol-o-dschi];Mythologie;Greek mythology is filled with tales of gods and heroes.;Die griechische Mythologie ist voller Geschichten von Göttern und Helden.
+myth;[mith];Mythos;The myth of the lost city has fascinated explorers for centuries.;Der Mythos der verlorenen Stadt hat Entdecker seit Jahrhunderten fasziniert.
+to belong to sth.;[tu bi-long tu sth.];etw. zugehören;The artifacts belong to the ancient civilization that once thrived here.;Die Artefakte gehören zu der alten Zivilisation, die hier einst blühte.
+folklore;[fowk-lohr];Folklore, Volkskunde;The festival celebrates the folklore and traditions of the region.;Das Festival feiert die Folklore und Traditionen der Region.
+keen;[kiin];begeistert, leidenschaftlich;She is a keen photographer, always capturing moments.;Sie ist eine begeisterte Fotografin und fängt immer Momente ein.
+diversity;[di-ver-si-ti];Vielfalt, Diversität;The city's cultural diversity is reflected in its cuisine.;Die kulturelle Vielfalt der Stadt spiegelt sich in ihrer Küche wider.
+to obtain;[tu ob-teyn];erhalten, erlangen;You need a permit to obtain access to the restricted area.;Sie benötigen eine Genehmigung, um Zugang zum Sperrgebiet zu erhalten.
+heathen, pagan;[hee-then, pey-gän];heidnisch, Heide;The old rituals were considered heathen by the new settlers.;Die alten Rituale wurden von den neuen Siedlern als heidnisch betrachtet.
+to worship;[tu wur-ship];anbeten;The tribe continues to worship their ancient gods.;Der Stamm betet weiterhin seine alten Götter an.
+observance;[ob-zerv-äns];Einhaltung, Beachtung;Strict observance of the rules is required in the laboratory.;Strikte Einhaltung der Regeln ist im Labor erforderlich.
+contemplation;[kon-tem-pley-schon];Nachdenken, Betrachtung;She spent hours in contemplation by the sea.;Sie verbrachte Stunden im Nachdenken am Meer.
+ancient;[eyn-schent];alt, antik;The ancient ruins are a popular tourist attraction.;Die alten Ruinen sind eine beliebte Touristenattraktion.
+Norse;[nors];nordisch, altnordisch;Norse mythology includes gods like Thor and Odin.;Die nordische Mythologie umfasst Götter wie Thor und Odin.
+fertility;[fer-til-i-ti];Fruchtbarkeit;The fertility of the soil makes this region ideal for farming.;Die Fruchtbarkeit des Bodens macht diese Region ideal für die Landwirtschaft.
+traced back;[treyst bæk];zurückverfolgt;The origins of the custom can be traced back to medieval times.;Die Ursprünge des Brauchs lassen sich bis ins Mittelalter zurückverfolgen.
+associated;[a-so-si-ey-tid];verbunden, zugehörig;The scientist is associated with several prestigious universities.;Der Wissenschaftler ist mit mehreren renommierten Universitäten verbunden.
+to exile;[tu eg-zail];verbannen, ins Exil schicken;The political dissident was exiled for his beliefs.;Der politische Dissident wurde für seine Überzeugungen ins Exil geschickt.
+exile;[eg-zail];Exil, Verbannung;He lived in exile for many years after the revolution.;Er lebte viele Jahre nach der Revolution im Exil.
+to commemorate sth.;[tu ko-me-mo-reyt sth.];etw. gedenken, würdigen;A monument was erected to commemorate the fallen soldiers.;Ein Denkmal wurde errichtet, um der gefallenen Soldaten zu gedenken.
+resurrection;[re-zur-rek-schon];Auferstehung;The story of the resurrection is central to Christian beliefs.;Die Geschichte der Auferstehung ist zentraler Bestandteil des christlichen Glaubens.
+thrilling;[thril-ling];spannend, aufregend;The roller coaster ride was thrilling and left everyone breathless.;Die Achterbahnfahrt war spannend und ließ alle atemlos zurück.
+suspense;[sus-pens];Spannung;The book kept me in suspense until the very last page.;Das Buch hielt mich bis zur letzten Seite in Spannung.
+in suspense;[in sus-pens];gespannt;The audience was in suspense, waiting for the final verdict.;Das Publikum war gespannt und wartete auf das endgültige Urteil.
+suspense-packed;[sus-pens päckt];spannend;The novel was suspense-packed from beginning to end.;Der Roman war von Anfang bis Ende spannend.
+exhilarating;[ig-zil-e-rey-ting];belebend, anregend;The hike up the mountain was challenging but exhilarating.;Die Wanderung auf den Berg war herausfordernd, aber belebend.
+tension;[ten-schon];Spannung;There was a palpable tension in the room during the negotiations.;Während der Verhandlungen herrschte eine spürbare Spannung im Raum.
+strain;[streyn];Belastung, Anspannung;The strain of the job was starting to take a toll on his health.;Die Belastung durch die Arbeit begann, seine Gesundheit zu belasten.
+burst;[böörst];Platzen, Ausbruch;A sudden burst of laughter erupted from the crowd.;Ein plötzlicher Ausbruch von Gelächter brach aus der Menge aus.
+to burst;[tu böörst];platzen, bersten;The balloon burst with a loud bang.;Der Ballon platzte mit einem lauten Knall.
+rush;[rasch];Ansturm, Eile;There was a rush to buy tickets as soon as they went on sale.;Es gab einen Ansturm auf die Tickets, sobald sie in den Verkauf gingen.
+anticipation;[an-ti-si-pey-schon];Erwartung;The anticipation for the new movie was evident in the long lines.;Die Erwartung auf den neuen Film war an den langen Schlangen deutlich zu erkennen.
+eerie;[ih-ri];unheimlich, gruselig;The eerie silence in the abandoned house was unsettling.;Die unheimliche Stille im verlassenen Haus war beunruhigend.
+frightening;[frait-ning];beängstigend;The thunderstorm was so frightening that the children hid under their beds.;Das Gewitter war so beängstigend, dass die Kinder sich unter ihren Betten versteckten.
+spooky;[spuu-ki];gruselig;They decided to explore the spooky old mansion on Halloween night.;Sie beschlossen, die gruselige alte Villa in der Halloween-Nacht zu erkunden.
+unsettling;[un-set-ling];verstörend;The news of the sudden resignation was unsettling for the entire team.;Die Nachricht vom plötzlichen Rücktritt war für das gesamte Team verstörend.
+abandoned;[a-bän-dänd];verlassen, aufgegeben;The abandoned factory was rumored to be haunted.;Die verlassene Fabrik soll angeblich von Geistern heimgesucht werden.
+shiver;[schi-ver];Schauder, Schauer;A shiver ran down his spine as he walked through the dark forest.;Ein Schauer lief ihm über den Rücken, als er durch den dunklen Wald ging.
+A cold shiver ran down her spine;[a kold schi-ver ran daun her spain];Es überlief sie kalt;When she heard the news, a cold shiver ran down her spine.;Als sie die Nachricht hörte, überlief sie ein kalter Schauer.
+intriguing;[in-trii-gin];verblüffend, faszinierend;The plot of the novel was intriguing and kept the readers hooked.;Die Handlung des Romans war faszinierend und fesselte die Leser.
+arousing;[a-rau-sing];erregend, aufrüttelnd;The speech was arousing and inspired many to take action.;Die Rede war aufrüttelnd und inspirierte viele, Maßnahmen zu ergreifen.
+captivating;[kap-ti-vey-ting];fesselnd;Her performance was captivating, holding the audience's attention throughout.;Ihre Darbietung war fesselnd und hielt die Aufmerksamkeit des Publikums während des gesamten Auftritts.
+cathartic;[ka-thar-tik];kathartisch, erlösend;Crying can have a cathartic effect, releasing pent-up emotions.;Weinen kann eine kathartische Wirkung haben und aufgestaute Emotionen freisetzen.
+cleansing;[klen-sing];reinigend, Reinigung;A cleansing ritual is part of many spiritual traditions.;Ein Reinigungsritual ist Teil vieler spiritueller Traditionen.
+pent-up;[pent-ap];aufgestaut;He finally let out all his pent-up frustration after the meeting.;Er ließ endlich all seine aufgestaute Frustration nach dem Treffen heraus.
+appeal;[a-piil];Anreiz, Einspruch;The new policy has limited appeal among younger voters.;Die neue Politik hat bei jüngeren Wählern nur begrenzten Anreiz.
+to appeal;[tu a-piil];wirken, einlegen (Einspruch);The lawyer decided to appeal the court's decision.;Der Anwalt entschied sich, gegen die Entscheidung des Gerichts Einspruch einzulegen.
+intense;[in-tens];intensiv;The intense heat of the desert was almost unbearable.;Die intensive Hitze der Wüste war fast unerträglich.
+to plunge;[tu plandsch];ab-/eintauchen;She decided to plunge into the cold water without hesitation.;Sie beschloss, ohne zu zögern in das kalte Wasser einzutauchen.
+to tap;[tu täp];klopfen, anzapfen;He gently tapped on the door before entering the room.;Er klopfte sanft an die Tür, bevor er den Raum betrat.
+to immerse oneself in sth.;[tu i-mörs wuns-zelf in sth.];sich in etw. einleben, vertiefen;She loves to immerse herself in her work and lose track of time.;Sie liebt es, sich in ihre Arbeit zu vertiefen und die Zeit zu vergessen.
+compelling;[kom-pell-ing];zwingend, fesselnd;His argument was so compelling that it changed many minds.;Sein Argument war so überzeugend, dass es viele Meinungen änderte.
+camaraderie;[ka-ma-ra-der-ii];Kameradschaft;There was a strong sense of camaraderie among the team members.;Unter den Teammitgliedern herrschte ein starkes Gefühl der Kameradschaft.
+bonding;[bon-ding];Bindung;The retreat was an excellent opportunity for team bonding.;Der Rückzug war eine ausgezeichnete Gelegenheit für Teambindung.
+fright;[frait];Angst, Furcht;The loud noise gave her a sudden fright.;Das laute Geräusch erschreckte sie plötzlich.
+to bear sth.;[tu bäär sth.];etw. ertragen;He had to bear the pain of his injury without any medication.;Er musste die Schmerzen seiner Verletzung ohne Medikamente ertragen.
+to bear;[tu bäär];ausüben;He bears the responsibility of leading the entire department.;Er trägt die Verantwortung für die Leitung der gesamten Abteilung.
+haunted;[hohn-tid];verfolgt, heimgesucht;The old castle is said to be haunted by ghosts.;Das alte Schloss soll von Geistern heimgesucht werden.
+surge;[sörj];Anstieg, Welle;There was a surge in demand for online services during the pandemic.;Während der Pandemie gab es einen Anstieg der Nachfrage nach Online-Diensten.
+tear-jerking;[tier-dscher-king];rührselig;The movie was a tear-jerking drama that left everyone in tears.;Der Film war ein rührseliges Drama, das alle zu Tränen rührte.
+palpable;[päl-pä-bl];greifbar, spürbar;The excitement in the room was palpable as the winner was announced.;Die Aufregung im Raum war spürbar, als der Gewinner bekannt gegeben wurde.
+to flourish;[tu flör-ish];gedeihen, aufblühen;The small business began to flourish after receiving an investment.;Das kleine Unternehmen begann zu gedeihen, nachdem es eine Investition erhalten hatte.
+vigorous;[vig-o-ruhs];energetisch;He maintained a vigorous exercise routine to stay healthy.;Er hielt eine energetische Trainingsroutine aufrecht, um gesund zu bleiben.
+to prosper, to flourish, to thrive;[tu pros-per, tu flör-ish, tu thraiv];gedeihen;The city continued to prosper and thrive despite economic challenges.;Die Stadt gedieh weiterhin trotz wirtschaftlicher Herausforderungen.
+catastrophe;[ka-tas-tro-fi];Katastrophe;The earthquake was a catastrophe that affected thousands of people.;Das Erdbeben war eine Katastrophe, die Tausende von Menschen betraf.
+devastated;[dev-a-stey-tid];verwüstet, zerschmettert;The village was devastated by the hurricane.;Das Dorf wurde vom Hurrikan verwüstet.
+inevitable;[in-ev-i-tä-bl];unausweichlich;Given the circumstances, their defeat seemed inevitable.;Angesichts der Umstände schien ihre Niederlage unausweichlich.
+to eradicate sth.;[tu i-rad-i-keyt sth.];etw. beseitigen, ausmerzen;They are working to eradicate poverty in the region.;Sie arbeiten daran, die Armut in der Region zu beseitigen.
+to put an end to;[tu put än end tu];auslöschen;They vowed to put an end to corruption in the government.;Sie schworen, die Korruption in der Regierung auszurotten.
+to abolish sth.;[tu a-bol-ish sth.];abschaffen;The new government plans to abolish outdated laws.;Die neue Regierung plant, veraltete Gesetze abzuschaffen.
+prosperity;[pros-per-i-ti];Wohlstand;The country's prosperity grew with the discovery of oil.;Der Wohlstand des Landes wuchs mit der Entdeckung von Öl.
+poverty;[po-ver-ti];Armut;Many organizations work to reduce poverty worldwide.;Viele Organisationen arbeiten daran, die Armut weltweit zu reduzieren.
+economy;[e-kon-o-mi];Wirtschaft;The global economy has faced significant challenges in recent years.;Die globale Wirtschaft hat in den letzten Jahren erhebliche Herausforderungen erlebt.
+alongside;[a-long-said];nebenher;She works as a freelance writer alongside her full-time job.;Sie arbeitet als freiberufliche Schriftstellerin neben ihrem Vollzeitjob.
+preventable;[pri-vent-a-bl];vermeidbar;Many diseases are preventable with proper healthcare and nutrition.;Viele Krankheiten sind mit angemessener Gesundheitsversorgung und Ernährung vermeidbar.
+treatable;[triit-a-bl];behandelbar;Most infections are treatable with the right antibiotics.;Die meisten Infektionen sind mit den richtigen Antibiotika behandelbar.
+worsened;[wör-snd];schlechter geworden;The patient's condition worsened overnight.;Der Zustand des Patienten hat sich über Nacht verschlechtert.
+to endanger;[tu en-deyn-dscher];gefährden;Cutting down trees can endanger wildlife habitats.;Das Abholzen von Bäumen kann die Lebensräume von Wildtieren gefährden.
+severe;[si-veer];ernst, heftig;The storm caused severe damage to the coastal town.;Der Sturm verursachte schwere Schäden in der Küstenstadt.
+ultimately;[al-ti-mit-li];letztendlich;Ultimately, the decision lies in the hands of the voters.;Letztendlich liegt die Entscheidung in den Händen der Wähler.
+to strive;[tu straiv];erstreben, streben;They strive to achieve excellence in every project they undertake.;Sie streben danach, in jedem Projekt, das sie durchführen, Exzellenz zu erreichen.
+fate;[feht];Schicksal;He believed it was his fate to become a musician.;Er glaubte, es sei sein Schicksal, Musiker zu werden.
+inhabitant;[in-hab-i-tänt];Bewohner, Einwohner;The inhabitants of the village are known for their hospitality.;Die Bewohner des Dorfes sind für ihre Gastfreundschaft bekannt.
+resilient;[re-zil-i-ent];belastbar, robust;The resilient community quickly rebuilt after the disaster.;Die belastbare Gemeinschaft baute sich nach der Katastrophe schnell wieder auf.
+underserved;[un-der-sörvd];unterversorgt;Many rural areas remain underserved in terms of healthcare.;Viele ländliche Gebiete sind in Bezug auf Gesundheitsversorgung unterversorgt.
+sb. poses;[sb. poh-zes];jd. stellt;She poses a significant threat to the reigning champion.;Sie stellt eine bedeutende Bedrohung für den amtierenden Champion dar.
+forest trail;[foh-rest treyl];Waldpfad;They followed the forest trail until they reached a clearing.;Sie folgten dem Waldpfad, bis sie zu einer Lichtung gelangten.
+riverside;[riv-er-said];am Flussufer gelegen;They enjoyed a picnic by the riverside on a sunny afternoon.;Sie genossen ein Picknick am Flussufer an einem sonnigen Nachmittag.
+to bloom;[tu bluum];blühen;The flowers bloom beautifully in the spring.;Die Blumen blühen im Frühling wunderschön.
+to twinkle;[tu twing-kl];blinken, blinzeln;The stars twinkled brightly in the clear night sky.;Die Sterne funkelten hell am klaren Nachthimmel.
+vibrant;[vai-bränt];lebhaft;The market was vibrant with colors, sounds, and smells.;Der Markt war lebhaft mit Farben, Geräuschen und Gerüchen.
+creek;[kriik];(kleiner) Bach, Flüsschen;They crossed a small creek during their hike through the woods.;Sie überquerten einen kleinen Bach während ihrer Wanderung durch den Wald.
+butterfly;[bat-er-flei];Schmetterling;A beautiful butterfly landed on the flower.;Ein schöner Schmetterling landete auf der Blume.
+branch;[bränch];Zweig;The bird perched on a branch high up in the tree.;Der Vogel saß auf einem Zweig hoch oben im Baum.
