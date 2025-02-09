@@ -19,7 +19,7 @@ README.md for the `DailyLanguageDose` repository.
 <br />
 <div align="center">
   <a href="https://github.com/alexanderblinn/DailyLanguageDose">
-    <img src="app/img/logo.jpeg" alt="Logo" width="250">
+    <img src="app/img/logo.png" alt="Logo" width="250">
   </a>
 
   <h3 align="center">Daily Language Dose</h3>
